@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "93e34cfe25c16652",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6a18c73e35499ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9db59935b3773eb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研英语/英语一真题/笔记/2010/Text1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Text1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d983b0a5176be7d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "898c3bc4ff3cc428",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c27bfec7fc064f8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "930c9a8762d84317",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "673797416b395aee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0f1c0ec31f196fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "be30a1a84c5db28c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d4ff8a2a75e71f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "考研政治/政治规划.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "政治规划 的反向链接列表"
+            }
+          },
+          {
+            "id": "a793af596fbd1f41",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "考研数学/2022年考研数学一143分经验贴(针对26考研进行了大改)_邂逅遗憾/正文.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "正文 的出链列表"
+            }
+          },
+          {
+            "id": "b24dea86583841e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "bea86db8338afbea",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "8d410c75ec026c24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "模板/template.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "template 的大纲"
+            }
+          },
+          {
+            "id": "a82d22af492e0ebf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "c27bfec7fc064f8d",
+  "lastOpenFiles": [
+    "README.md",
+    "PostgraduateEntranceExams/README.md",
+    "PostgraduateEntranceExams",
+    "模板/英语阅读.md",
+    "考研英语/英语一真题/笔记/2010/Text1.md",
+    "考研英语/英语一真题/笔记/2010/Text1.md",
+    "考研英语/英语一真题/2010年考研英语一真题.pdf",
+    "考研英语/英语一真题/笔记/2010",
+    "考研英语/英语一真题/笔记/未命名.md",
+    "模板/Alt + T.md",
+    "考研英语/英语规划.md",
+    "考研英语/英语一真题/template/template.md",
+    "模板",
+    "考研英语/英语一真题/template",
+    "考研英语/英语一真题/阅读笔记.md",
+    "考研英语/英语一真题/笔记",
+    "考研英语/未命名",
+    "考研数学/AI 总结.md",
+    "考研数学/数学规划.md",
+    "408/408规划.md",
+    "考研政治/政治规划.md",
+    "考研政治",
+    "考研英语/未命名.md",
+    "写给自己, 坚持！.md",
+    "考研目标.md",
+    "考研数学/2022年考研数学一143分经验贴(针对27考研进行了更新)——by邂逅遗憾/index.md",
+    "408",
+    "未命名.md",
+    "考研数学/2024考研数学数一150分经验贴(完全符合26考研)_Deya/正文.md",
+    "未命名.base",
+    "考研数学/2022年考研数学一143分经验贴(针对27考研进行了更新)——by邂逅遗憾/assets/v2-fcc2a0710defde031b8191fbd9059f76_r.jpg",
+    "考研数学/2022年考研数学一143分经验贴(针对27考研进行了更新)——by邂逅遗憾/assets/v2-8e9d5b13992addb70e45ec9597123602_r.jpg",
+    "考研数学/2022年考研数学一143分经验贴(针对27考研进行了更新)——by邂逅遗憾/assets/v2-bf09fe936c5f85ca75b2579496f48e90_1440w.image.jpg",
+    "考研数学/2022年考研数学一143分经验贴(针对27考研进行了更新)——by邂逅遗憾/assets/v2-6e3b17f67b73d2add58aa0e426f2112a_r.jpg",
+    "考研数学/2022年考研数学一143分经验贴(针对27考研进行了更新)——by邂逅遗憾/assets/v2-62db1dc6d57a221499bd453cfcaed97b_r.jpg",
+    "考研数学/2022年考研数学一143分经验贴(针对27考研进行了更新)——by邂逅遗憾/assets/v2-4755d063ecd6048d88a76b1aacaed996_r.jpg",
+    "考研数学/2022年考研数学一143分经验贴(针对27考研进行了更新)——by邂逅遗憾/assets/v2-0f0060c3fdab4526a266af6e8c14dd55_r.jpg",
+    "考研数学/2022考研数学一143分经验贴(针对27考研进行了更新)——by邂逅遗憾/index.md",
+    "考研数学/2022考研数学一143分经验贴(针对27考研进行了更新)——by邂逅遗憾/assets/v2-fcc2a0710defde031b8191fbd9059f76_r.jpg",
+    "考研数学/2022考研数学一143分经验贴(针对27考研进行了更新)——by邂逅遗憾/assets/v2-bf09fe936c5f85ca75b2579496f48e90_1440w.image.jpg",
+    "考研数学/2022考研数学一143分经验贴(针对27考研进行了更新)——by邂逅遗憾/assets/v2-8e9d5b13992addb70e45ec9597123602_r.jpg",
+    "模板/template.md",
+    "粘贴题目截图或错题链接.md",
+    "在此处双链链接到相关基础概念.md",
+    "模板/Untitled.md",
+    "模板.md"
+  ]
+}

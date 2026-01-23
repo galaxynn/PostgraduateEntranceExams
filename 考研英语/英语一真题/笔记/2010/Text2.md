@@ -20,7 +20,7 @@ tags:
 | patent                             | n. 专利 v. 获得专利      |                                          |
 | scale (sth.) back                  | 减少数量, 缩小规模         |                                          |
 | ever since                         | 自从                 |                                          |
-| move                               | n. 行动              |                                          |
+| move                               | n. 行动, 措施          |                                          |
 | abuzz                              | adj. 嗡嗡的; 议论纷纷的    | buzz n.喧闹; 嗡嗡声                           |
 | dismiss                            | v. 驳回              |                                          |
 | intellectual property              | 知识财产, 知识产权         | intellectual adj. 智力的 property n. 财产; 特性 |

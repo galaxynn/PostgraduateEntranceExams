@@ -12,14 +12,16 @@ tags:
 
 ## 1. 语言盲点
 ### 核心词汇
-| 单词                | **文中义/语境**    | 备注        |
-| ----------------- | ------------- | --------- |
-| be granted for    | 被授予给...       |           |
-| business methods  | 商业方法          |           |
-| for               | prep./conj.因为 | 文中作为prep. |
-| patent            | n. 专利 v. 获得专利 |           |
-| scale (sth.) back | 减少数量, 缩小规模    |           |
-|                   |               |           |
+| 单词                | **文中义/语境**      | 备注             |
+| ----------------- | --------------- | -------------- |
+| be granted for    | 被授予给...         |                |
+| business methods  | 商业方法            |                |
+| for               | prep./conj.因为   | 文中作为prep.      |
+| patent            | n. 专利 v. 获得专利   |                |
+| scale (sth.) back | 减少数量, 缩小规模      |                |
+| ever since        | 自从              |                |
+| move              | n. 行动           |                |
+| abuzz             | adj. 嗡嗡的; 议论纷纷的 | buzz n.喧闹; 嗡嗡声 |
 
 ### 长难句解析
 * **原句**：

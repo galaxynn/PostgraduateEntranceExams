@@ -45,7 +45,7 @@ tags:
 | if only                            | 即使仅出于……目的; 要是……就好了 |                                                  |
 | a defensive move against           | 一项针对...的防御性的行动/措施  | defensive adj. 防御的<br>defensible adj.合乎情理的;站得住脚的 |
 | take positions                     | 表明立场               |                                                  |
-| court case                         | 法庭案件               | cour                                             |
+| court case                         | 法庭案件               | court n. 法庭; 球场                                  |
 | practice                           | n. 做法              | n. 练习; 惯例; 实践 v.践行; 训练, 练习                       |
 
 ### 长难句解析

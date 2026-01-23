@@ -25,9 +25,16 @@ tags:
 | dismiss               | v. 驳回           |                                          |
 | intellectual property | 知识财产, 知识产权      | intellectual adj. 智力的 property n. 财产; 特性 |
 | case                  | n. 案件, 案例       |                                          |
-| ruling                | n. 裁决           |                                          |
+| ruling                | n. 裁决, 判决       |                                          |
 | involve               | v. 涉及           |                                          |
-| claim                 | n. 专利           |                                          |
+| claim                 | n. 专利申请;        |                                          |
+| circuit               | n. 巡回法院         |                                          |
+| pool                  | v. 集中（金钱、资源等）   |                                          |
+| mutual-fund asset     | 共同基金财产          |                                          |
+| explosion             | n. 激增           |                                          |
+| filing                | n. 卷宗; 存档档案     |                                          |
+| emerging              | adj. 新兴的        |                                          |
+|                       |                 |                                          |
 
 ### 长难句解析
 * **原句**：

@@ -1,1 +1,3 @@
-# PostgraduateEntranceExams
+# 考研仓库
+
+## 考研加油！坚持住！每天学一点！

@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "进度"
             }
+          },
+          {
+            "id": "8481fc399ba4c8df",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,7 +222,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "27450bf8981a0439",
+  "active": "8481fc399ba4c8df",
   "lastOpenFiles": [
     "408/408规划.md",
     "日志.md",

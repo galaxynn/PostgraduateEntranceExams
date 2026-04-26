@@ -45,4 +45,5 @@
 	- 现在完成进行时（have been doing ）：从过去到现在**一直**在做, 以后可能也会做。
 	- 过去完成进行时（had been doing ）：从过去到过去**一直**在做。
 
-
+	- **进行时( be doing )**：be + doing 才是进行时, 正在做, 可以发生到将来。
+	- 将来时( 助动词(will) + do / be going to do)：

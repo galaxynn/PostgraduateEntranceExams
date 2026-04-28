@@ -53,5 +53,23 @@
 
 	- 一般现在时( do/does )：描绘客观存在的事（一定发生的）。一般要加情态动词表达不是一定发生。
 
-	- 语态只有主动和被动。
-	- 被动语态( be done ) 是谓语。
+	- 语态**只有主动和被动**。
+	- 被动语态( be done ) 
+
+- 情态动词
+	- 情态动词 + 动词原形do
+	- might / may / could / can / will 可能
+	- should 应该
+	- must 命令
+	- need 可做 情态动词 和 正常动词
+
+- be 动词 / 系动词
+	- be + 形容词 (adj.) 如：You are smart.
+	- be + 名词 (n.) 如：A is B. （把 is 看成等号, A 和 B 是一个性质的东西。）
+	- be + 介词短语 如：I am in school.
+	- be + doing 进行时
+	- be + done 被动语态
+
+	- 系动词
+		- 如：become appear seem sound look smell taste feel prove
+		- be 动词本身是系动词

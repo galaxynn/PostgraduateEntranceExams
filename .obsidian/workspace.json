@@ -179,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,7 +194,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eac3ea2bd92d91ae",
+  "active": "a82d22af492e0ebf",
   "lastOpenFiles": [
     "日志.md",
     "考研英语/Eli田瀚博语法课笔记.md",

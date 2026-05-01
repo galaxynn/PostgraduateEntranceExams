@@ -120,7 +120,7 @@
 	- I like this book **but** not that book.
 
 - 关系连词
-	- 如：where / how / when / if / although / though / since / why / what 等
+	- 如：where / how / when / if / although / though / since / why / what / however 等
 	- 都不能**单独**引导句子。
 	- 用来引导分句。即 后面 + 完整句子。
 
@@ -144,3 +144,26 @@
 - **a n. of**, 大多数是**量词**。
 - an amount of / a host of / a lot of.
 - A of B 的核心是A, 除了量词外。
+
+
+### 9. 补充
+- be of n.(抽象名词)：表示有
+	- This book is of importance. （书有重要性）
+	- The idea is of benefit.（想法有益处）
+
+- 背单词时, 要尽可能地**记词性**。
+- 单词**怎么用, 写在词性里面了**。
+
+## 3. 句子
+### 1. 主谓宾 / 主谓
+- I love you.
+- **任何**一个句子的结构都是主谓宾。
+
+- 当写任何一个从句时, 要告诉别人你要写从句, 用**关系连词**。
+### 2. 主语从句
+- **主语是个句子**, 充当主语。
+- 1. 关系连词有意思
+	- what 是 名词
+	- 只能做主语和宾语。
+	- What makes you happy is good.
+	- What you like is a book.

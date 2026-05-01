@@ -95,7 +95,7 @@
 
 ### 5. 介词
 - 介词后一定会加宾语。
-- 介词 + n. / doing (动名词)
+- **介词 + n. / doing (动名词)**
 - 作用：
 	- **作定语, 修饰名词。**
 	- **作状语, 一般修饰动词。**
@@ -110,4 +110,21 @@
 
 - v. + up 做起来
 
-- to 介词 箭头
+- to/toward/into 代表箭头, 两种情况
+	- 1. 作不定式 to do
+	- 2. 作介词 to n./doing
+
+### 6.连词
+- 大连词：可**并列任何词性和句子**
+	- and / but / or / so / yet
+	- I like this book **but** not that book.
+
+- 关系连词
+	- 如：where / how / when / if / although / though / since / why / what 等
+	- 都不能**单独**引导句子。
+	- 用来引导分句。即 后面 + 完整句子。
+
+### 7.冠词
+- a / an
+- **the = this**
+	- I like my school. The school i

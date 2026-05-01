@@ -126,5 +126,14 @@
 
 ### 7.冠词
 - a / an
+	- 泛指
+	- We have eaten an apple.（**可数名词**单数前记得加a/an）
+
 - **the = this**
-	- I like my school. The school i
+	- 特指
+	- I like my school. The(This) school is good.
+	- The book on my table is good. (**加定语告诉是哪一个。**)
+	- **独一无二的东西前 加 the**, 如 the world, the sun, the moon.
+	- **乐器**前 加 the, 如 the guitar, the piano.
+	- **最高级**前 加 the, 如 the best seller, the most.
+	- **序数词**前 加 the, 如 the first, the second.

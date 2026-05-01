@@ -162,8 +162,21 @@
 - 当写任何一个从句时, 要告诉别人你要写从句, 用**关系连词**。
 ### 2. 主语从句
 - **主语是个句子**, 充当主语。
-- 1. 关系连词有意思
-	- what 是 名词
+- 1. 关系连词**有意思**
+	- what 作 **名词 n.**
+	- 所以, 后面**不用加主语**。
 	- 只能做主语和宾语。
-	- What makes you happy is good.
-	- What you like is a book.
+	- (What makes you happy) is good.
+	- (What you like) is a book.
+
+	- when / why / how / if / where 作 **副词 adv.**
+	- 所以, 后面要**加完整主谓宾**。
+	- How you play soccer is good.
+
+- 2. 关系连词**没意思**
+	- that 后面加一个**完整句子**。
+	- That I can read books makes me happy. 
+
+- 3. 动名词做主语
+	- Learning English makes me happy.
+	- You play soccer is go

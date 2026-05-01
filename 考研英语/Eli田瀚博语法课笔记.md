@@ -179,4 +179,6 @@
 
 - 3. 动名词做主语
 	- Learning English makes me happy.
-	- You play soccer is go
+
+	- You playing soccer is good. （指代你踢足球踢得好。）
+	- That you play soccer is good. （指代你踢足球这件事很好。）

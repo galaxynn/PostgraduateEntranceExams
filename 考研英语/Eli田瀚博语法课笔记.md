@@ -114,7 +114,7 @@
 	- 1. 作不定式 to do
 	- 2. 作介词 to n./doing
 
-### 6.连词
+### 6. 连词
 - 大连词：可**并列任何词性和句子**
 	- and / but / or / so / yet
 	- I like this book **but** not that book.
@@ -124,7 +124,9 @@
 	- 都不能**单独**引导句子。
 	- 用来引导分句。即 后面 + 完整句子。
 
-### 7.冠词
+### 7. 冠词
+- **冠词 + n.** （后面一定加**名词**。）
+- The adj. 是 名词
 - a / an
 	- 泛指
 	- We have eaten an apple.（**可数名词**单数前记得加a/an）
@@ -137,3 +139,8 @@
 	- **乐器**前 加 the, 如 the guitar, the piano.
 	- **最高级**前 加 the, 如 the best seller, the most.
 	- **序数词**前 加 the, 如 the first, the second.
+
+### 8. 数词 / 量词
+- **a n. of**, 大多数是**量词**。
+- an amount of / a host of / a lot of.
+- A of B 的核心是A, 除了量词外。

@@ -159,7 +159,9 @@
 - I love you.
 - **任何**一个句子的结构都是主谓宾。
 
-- 当写任何一个从句时, 要告诉别人你要写从句, 用**关系连词**。
+- 当写任何一个从句时, 要**告诉别人你要写从句**, 用**关系连词**。
+- 各种从句可以任意**嵌套**。
+
 ### 2. 主语从句
 - **主语是个句子**, 充当主语。
 - 1. 关系连词**有意思**
@@ -182,3 +184,23 @@
 
 	- You playing soccer is good. （指代你踢足球踢得好。）
 	- That you play soccer is good. （指代你踢足球这件事很好。）
+
+### 3.宾语从句
+- 宾语是个句子, 充当宾语。
+- You think (that 主谓 (that 主谓宾)).
+- I like (what you hate).
+
+- 介词 + 宾语（宾语从句）
+
+### 4. 定语从句
+- 定语是个句子, 充当定语。
+- 修饰名词（主语 或 宾语）。
+
+- 用 that / which **引导** 定语从句。 
+
+- 无逗号, 能用 which / that
+	- I like this book which/that makes me happy.
+	- This book that could make me happy is good.
+
+	- I like this book of history that has many pages. （A of B, 可能修饰A, 也可能修饰B,）
+- 有逗号, 只能用 which

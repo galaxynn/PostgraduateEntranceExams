@@ -250,4 +250,5 @@
 	- 分清楚是**并列** 和 **解释**。
 
 - 同位语 变成 句子
-- I like this ruling that 
+- 常用 that / why / whether 
+- I like this ruling (that 主谓宾). 用于解释 ruling, 要和定语从句区分开, 定语从句是修饰, 这里是解释。

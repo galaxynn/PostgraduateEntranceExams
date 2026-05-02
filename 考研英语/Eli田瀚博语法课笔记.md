@@ -219,4 +219,7 @@
 - whose 物主代词, 作形容词, 后加名词。
 - I like this computer whose screen is good.
 
+- where / when 
+	- I like this school where(in which) I can play soccer.
+	- I like July when I can wear shorts.
 ### 5. 非谓语从句

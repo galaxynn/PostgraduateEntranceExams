@@ -238,3 +238,16 @@
 	- I like this school, doing/done
 	- 可能修饰 前面的 主语、宾语 或 整个句子, 看意思。
 
+- Doing sth. 谓语 宾语。 
+- Doing sth., **主**谓宾。
+
+- Done by sth., **主**谓宾。是后面的主语发出的。
+
+### 6. 同位语从句
+- 同位语：用名词解释名词
+	- 我喜欢太原, 是一个美丽的城市。
+	- I love taiyuan, a beautiful city.
+	- 分清楚是**并列** 和 **解释**。
+
+- 同位语 变成 句子
+- I like this ruling that 

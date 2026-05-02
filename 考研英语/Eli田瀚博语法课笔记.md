@@ -222,4 +222,19 @@
 - where / when 
 	- I like this school where(in which) I can play soccer.
 	- I like July when I can wear shorts.
+
+- why
+- Tell me the reason why you are late.
 ### 5. 非谓语从句
+- 谓语动词 相当于 主线故事 
+- 非谓语动词 相当于 支线故事
+- 已经有了谓语的情况下, 又想表达其他次要动作, 这个时候要用非谓语。
+
+- 分 主动(doing) 和 被动(done)
+- 1. 没有逗号
+	- I like this book making me happy.
+	- I like this book written by her.
+- 2. 有逗号
+	- I like this school, doing/done
+	- 可能修饰 前面的 主语、宾语 或 整个句子, 看意思。
+

@@ -194,13 +194,29 @@
 
 ### 4. 定语从句
 - 定语是个句子, 充当定语。
-- 修饰名词（主语 或 宾语）。
+- 修饰名词（主语 或 宾语）。只要是名词就能修饰。
 
-- 用 that / which **引导** 定语从句。 
+- 用 that / which / who **引导** 定语从句。 
 
-- 无逗号, 能用 which / that
+- 1. 无逗号, 能用 which / that
 	- I like this book which/that makes me happy.
 	- This book that could make me happy is good.
 
-	- I like this book of history that has many pages. （A of B, 可能修饰A, 也可能修饰B,）
-- 有逗号, 只能用 which
+	- I like this book of history that has many pages. （A of B, 可能修饰A, 也可能修饰B, 要看意思。）
+
+- 2. 有逗号, 只能用 which / who, 非限定
+	- 一个句子, 如果看成整体, 整个句子作名词。
+	- There is a book in my home, which makes me happy. 
+	- 可能修饰前面的整个句子, 也可能修饰句子中的名词, 也要看意思。
+
+- 3. **带介词**的定语从句
+	- I like this book (in which 主谓宾).
+	- There is a table on which what you are eating are delicious.
+
+- who 形容人
+- I like this person who you like.
+
+- whose 物主代词, 作形容词, 后加名词。
+- I like this computer whose screen is good.
+
+### 5. 非谓语从句

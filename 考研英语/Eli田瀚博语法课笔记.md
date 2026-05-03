@@ -300,5 +300,19 @@
 - Such n. that 句子
 	- In such a school that there are many books, I am happy.
 
-- so that 
-### 12. 
+- so that 连在一起 等于 连词
+	- 为了, 以便
+
+### 12. 倒装句
+- 主谓宾
+- 1. 半倒装, 谓语 主语 宾语
+	- 否定副词提前, 后面的句子 主谓倒装
+	- 如果有助动词(have/will/do), 只需要助动词提前
+	- 否定副词：rarely, never, seldom, not, hardly, only, scarcely, not only, barely
+	-  Rarely have I play games.
+	- Not only will I do this, but also do that.
+
+- 2.全倒装, 宾语 谓语 主语
+	- 强调宾语
+	- In my bags is a book that has many pages.
+	- Among many things is a fact that I like you.

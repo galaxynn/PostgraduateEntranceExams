@@ -316,3 +316,23 @@
 	- 强调宾语
 	- In my bags is a book that has many pages.
 	- Among many things is a fact that I like you.
+	- Important are you who care from China.
+
+- As 倒装
+- as 尽管 
+- As you are happy, you can not do this.
+- Happy as you are, you can not do this. 
+
+## 3. 常用语法结构
+- As ... as 结构
+	- 中间内容, **语法相连**
+	- 第一个 as 没意思, 翻译时可以去掉。
+	- 第二个 as 翻译为 **正如** 介词 / 连词
+	- You are as smart as him.
+	- You can play soccer as when you are happy as when you are sad.
+	- You are as smart as that student.
+	- I can play soccer as in school as in mall.
+
+- With A(n.) doing/done 结构
+	- 随着
+	- I am happy, with my friend who is from China and is sad beaten.

@@ -285,4 +285,20 @@
 - 形式宾语
 	- I can make it easy for you to do sth.
 ### 10. 强调句
-- It is ... that ...
+- 1. It is ... that ... 
+	- 就是某个
+	- It is this student that makes me happy.
+	- 把 It is 和 that 删去, 仍为一个完整句子。
+	- It is if he can make it that I should do this.
+- 2. Do + 动词原形
+	- I did read the book.
+
+### 11. So that / Such that
+- So adj./adv. that 完整句子, 整个句子作形容词。
+	- In my school so beautiful that I don't want to leave.
+
+- Such n. that 句子
+	- In such a school that there are many books, I am happy.
+
+- so that 
+### 12. 

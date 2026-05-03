@@ -244,7 +244,7 @@
 - Done by sth., **主**谓宾。是后面的主语发出的。
 
 ### 6. 同位语从句
-- 同位语：用名词解释名词
+- 同位语：用名词解释名词, 作**定语**。
 	- 我喜欢太原, 是一个美丽的城市。
 	- I love taiyuan, a beautiful city.
 	- 分清楚是**并列** 和 **解释**。
@@ -252,3 +252,15 @@
 - 同位语 变成 句子
 - 常用 that / why / whether 
 - I like this ruling (that 主谓宾). 用于解释 ruling, 要和定语从句区分开, 定语从句是修饰, 这里是解释。
+
+### 7. 状语从句
+- 句子作状语, 修饰动词（非谓语动词 和 谓语动词**都行**）。
+- 关系连词 分句, 主谓宾。
+- 主谓宾, 关系连词 分句。
+- why / since / because / if / though / although / 
+- given / once / providing / as
+- When I am in school although you are in library, I can use computers.
+
+### 8. There be 
+- There be + 名词
+- There seems to be 

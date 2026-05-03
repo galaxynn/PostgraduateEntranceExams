@@ -284,7 +284,7 @@
 
 - 形式宾语
 	- I can make it easy for you to do sth.
-### 10. 强调句
+### 10. 强调句/感叹句
 - 1. It is ... that ... 
 	- 就是某个
 	- It is this student that makes me happy.
@@ -292,6 +292,15 @@
 	- It is if he can make it that I should do this.
 - 2. Do + 动词原形
 	- I did read the book.
+
+- What n.
+	- What a game.
+- How adj./adv.
+	- How impartant
+
+- I like how smartly you play soccer.
+- I like what a game you have.
+- What you like to do is to play soccer.
 
 ### 11. So that / Such that
 - So adj./adv. that 完整句子, 整个句子作形容词。
@@ -327,7 +336,7 @@
 - As ... as 结构
 	- 中间内容, **语法相连**
 	- 第一个 as 没意思, 翻译时可以去掉。
-	- 第二个 as 翻译为 **正如** 介词 / 连词
+	- 第二个 as 翻译为 **正如** 
 	- You are as smart as him.
 	- You can play soccer as when you are happy as when you are sad.
 	- You are as smart as that student.
@@ -336,3 +345,27 @@
 - With A(n.) doing/done 结构
 	- 随着
 	- I am happy, with my friend who is from China and is sad beaten.
+
+- 句子1 while 句子2
+
+
+- 虚拟语气
+	- 不太可能发生的事情。
+	- If I were you, I would ...
+	- Had I done this, I would be happy. 如果... 
+
+- As
+	- 介词：作为
+	- 关系连词：因为 当 正如
+
+- What/how/where/how to do 
+	- 当做名词
+	- I know what to do.
+
+- Yet
+	- 大连词
+	- 在句首：然而
+	- Have not yet：还
+	- I have yet done this：还没
+
+	- I may win this yet：早晚

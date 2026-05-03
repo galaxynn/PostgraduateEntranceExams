@@ -261,6 +261,28 @@
 - given / once / providing / as
 - When I am in school although you are in library, I can use computers.
 
-### 8. There be 
-- There be + 名词
-- There seems to be 
+### 8. There be / Here be
+- There be / Here be + 名词, 是一个完整句子, 表示：有 / 存在。
+- be 动词可以换为 系动词, 例如 There seems to be 
+
+### 9. 形式主语/形式宾语
+- 形式主语
+	- 1. It is adj. for sb. to do sth.
+		- It is important for me to learn English.
+	- 2. It is adj. that 完整句子
+		- It is important that you learn English.
+	- 3. It is said that / It is reported that / It is time to do /
+		- It is believed that
+	- 4. It makes me say that I like you.
+
+
+- make / keep / leave A(n.) B
+- make A(n.) B(adj./n./v./介词)
+- I can make you happy.
+- I can make you a good person.
+- I can make you in my room.
+
+- 形式宾语
+	- I can make it easy for you to do sth.
+### 10. 强调句
+- It is ... that ...

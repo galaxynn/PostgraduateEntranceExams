@@ -35,8 +35,7 @@
               "title": "第四章 串的模式匹配算法"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "408/数据结构/第四章 串的模式匹配算法.md",
+            "file": "408/数据结构/需记忆的内容总结.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,10 +169,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a3f85b3fb9134ed0",
+  "active": "86372fb3d6988655",
   "lastOpenFiles": [
-    "408/数据结构/第四章 串的模式匹配算法.md",
+    "408/数据结构/第三章 数组与特殊矩阵.md",
     "408/数据结构/需记忆的内容总结.md",
+    "408/数据结构/第四章 串的模式匹配算法.md",
     "408/数据结构/从卡特兰数引出的动态规划专题.md",
     "408/数据结构/第三章 队列.md",
     "408/408规划.md",

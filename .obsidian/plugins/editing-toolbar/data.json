@@ -1,6 +1,6 @@
 {
   "lastVersion": "3.1.18",
-  "aestheticStyle": "custom",
+  "aestheticStyle": "default",
   "positionStyle": "following",
   "menuCommands": [
     {
@@ -329,5 +329,5 @@
   "viewTypeSettings": {},
   "toolbarBackgroundColor": "#2D3033",
   "toolbarIconColor": "var(--text-normal)",
-  "toolbarIconSize": 22
+  "toolbarIconSize": 18
 }

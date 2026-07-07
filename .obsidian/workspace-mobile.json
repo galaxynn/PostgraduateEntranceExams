@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研数学/错题记录.md",
+                "file": "408/数据结构/第五章 线索二叉树.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "错题记录"
+              "title": "第五章 线索二叉树"
             }
           }
         ]
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "right": {
     "id": "31a552446834c025",
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "考研数学/错题记录.md",
+            "file": "408/数据结构/第五章 线索二叉树.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -157,13 +157,15 @@
   },
   "active": "d615cb6905c214a2",
   "lastOpenFiles": [
-    "408/数据结构/第五章 树与二叉树的应用.md",
     "考研数学/错题记录.md",
+    "408/数据结构/第六章 图的基本概念.md",
+    "未命名.md",
+    "未命名 1.md",
+    "408/数据结构/第五章 树与二叉树的应用.md",
     "408/数据结构/第五章 线索二叉树.md",
     "408/数据结构/第五章 树、森林.md",
     "408/数据结构/第五章 二叉树的遍历.md",
     "408/数据结构/第五章 树的基本概念和性质.md",
-    "未命名.md",
     "408/数据结构/第五章 二叉树.md"
   ]
 }

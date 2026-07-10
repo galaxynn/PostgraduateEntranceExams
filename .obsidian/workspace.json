@@ -13,12 +13,13 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-style-settings/data.json",
-                "bFile": ".obsidian/plugins/obsidian-style-settings/data.json",
-                "aRef": ""
+                "aFile": "408/数据结构/第三章 数组与特殊矩阵.md",
+                "bFile": "408/数据结构/第三章 数组与特殊矩阵.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
               "icon": "diff",
-              "title": "Diff: data.json"
+              "title": "Diff: 第三章 数组与特殊矩阵"
             }
           }
         ]
@@ -196,6 +197,8 @@
   },
   "active": "a82d22af492e0ebf",
   "lastOpenFiles": [
+    "408/数据结构/第三章 数组与特殊矩阵.md",
+    "408/数据结构/第三章 队列.md",
     "408/数据结构/第六章 图的应用.md",
     "408/数据结构/第六章 图的基本概念.md",
     "408/数据结构/第六章 图的遍历.md",
@@ -203,8 +206,6 @@
     "408/数据结构/第二章 线性表-链表.md",
     "408/数据结构/第二章 线性表.md",
     "408/数据结构/从卡特兰数引出的动态规划专题.md",
-    "408/数据结构/第三章 数组与特殊矩阵.md",
-    "408/数据结构/第三章 队列.md",
     "408/数据结构/第四章 串的模式匹配算法.md",
     "408/数据结构/第三章 栈.md",
     "408/数据结构/第五章 树、森林.md",

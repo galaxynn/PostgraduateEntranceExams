@@ -1,7 +1,3 @@
 {
-  "baseFontSize": 23,
-  "baseFontSizeAction": true,
-  "cssTheme": "Blue Topaz",
-  "accentColor": "#348cbc",
-  "theme": "moonstone"
+  "baseFontSize": 18
 }

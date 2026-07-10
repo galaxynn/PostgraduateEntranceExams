@@ -3,5 +3,8 @@
   "cssTheme": "Blue Topaz",
   "accentColor": "#9f46c8",
   "nativeMenus": false,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "Microsoft YaHei UI",
+  "textFontFamily": "Microsoft YaHei UI",
+  "monospaceFontFamily": "Arial"
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/数据结构/第六章 图的遍历.md",
+                "file": "日记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第六章 图的遍历"
+              "title": "日记"
             }
           }
         ]
@@ -191,14 +191,18 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
   "active": "eac3ea2bd92d91ae",
   "lastOpenFiles": [
+    "遗忘是正常的, 如何战胜遗忘？.md",
+    "README.md",
+    "408/数据结构/第六章 图的遍历.md",
+    "未命名.md",
     "408/数据结构/第六章 图的应用-拓扑排序-有向无环图描述表达式.md",
     "408/数据结构/从卡特兰数引出的动态规划专题.md",
-    "未命名.md",
     "408/数据结构/第六章 图的应用-最短路径.md",
     "408/数据结构/第六章 图的应用-最小生成树.md",
     "408/数据结构/第六章 图的应用-关键路径.md",
@@ -210,7 +214,6 @@
     "408/数据结构/第三章 队列.md",
     "408/数据结构/第六章 图的应用.md",
     "408/数据结构/第六章 图的基本概念.md",
-    "408/数据结构/第六章 图的遍历.md",
     "408/数据结构/第二章 线性表-顺序表.md",
     "408/数据结构/第二章 线性表-链表.md",
     "408/数据结构/第二章 线性表.md",
@@ -223,8 +226,6 @@
     "模板/英语阅读.md",
     "模板/Alt + T.md",
     "写给自己, 坚持！.md",
-    "408/数据结构/第六章 图的存储及基本操作.md",
-    "408/数据结构/第五章 二叉树的遍历.md",
     "408/未命名.base",
     "408/数据结构",
     "408/assets/26考研 11408 406分复习经验贴_14_小企鹅🐧_来自小红书网页版.jpg",

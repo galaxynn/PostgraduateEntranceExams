@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "第二章 数据的表示和运算-计算篇"
             }
+          },
+          {
+            "id": "09a5a2dc5827d20d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.13.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -194,7 +209,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eac3ea2bd92d91ae",
+  "active": "09a5a2dc5827d20d",
   "lastOpenFiles": [
     "408/计算机组成原理/第一章/第二章 数据的表示和运算-概念篇.md",
     "408/计算机组成原理/第一章/第二章 数据的表示和运算-计算篇.md",

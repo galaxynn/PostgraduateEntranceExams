@@ -25,12 +25,14 @@
             "id": "09a5a2dc5827d20d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.4"
+                "file": "408/计算机组成原理/第一章/第二章 数据的表示和运算-浮点数专题.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.13.4"
+              "icon": "lucide-file",
+              "title": "第二章 数据的表示和运算-浮点数专题"
             }
           }
         ],

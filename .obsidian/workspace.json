@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "算法"
             }
+          },
+          {
+            "id": "5ebad62fee44b6e5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.13.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,7 +209,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f16816216ab095ca",
+  "active": "5ebad62fee44b6e5",
   "lastOpenFiles": [
     "408/操作系统/第二章 死锁.md",
     "408/操作系统/第二章 同步与互斥概念.md",

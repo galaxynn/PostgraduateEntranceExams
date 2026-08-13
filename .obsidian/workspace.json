@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/计算机组成原理/第六章/第六章 6.2总线事务和总线定时.md",
+                "file": "408/计算机组成原理/第三章/第三章 3.2.3 多模块存储器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第六章 6.2总线事务和总线定时"
+              "title": "第三章 3.2.3 多模块存储器"
+            }
+          },
+          {
+            "id": "1fa990fd90fc245d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.13.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,10 +209,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f16816216ab095ca",
+  "active": "1fa990fd90fc245d",
   "lastOpenFiles": [
-    "408/计算机组成原理/第六章/第六章 6.1总线概述.md",
+    "408/计算机组成原理/第二章/第二章 数据的表示和运算-浮点数专题.md",
     "408/计算机组成原理/第六章/第六章 6.2总线事务和总线定时.md",
+    "408/计算机组成原理/第六章/第六章 6.1总线概述.md",
     "附件/第六章 6.2总线事务和总线定时 全互锁.png",
     "附件/第六章 6.2总线事务和总线定时 半互锁.png",
     "附件/第六章 6.2总线事务和总线定时 不互锁.png",

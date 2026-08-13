@@ -95,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.8333435058594
+    "width": 376.16668701171875
   },
   "right": {
     "id": "b0f1c0ec31f196fc",
@@ -211,7 +211,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c27bfec7fc064f8d",
+  "active": "1fa990fd90fc245d",
   "lastOpenFiles": [
     "408/操作系统/第二章/第二章 进程和线程－进程的通信.md",
     "408/操作系统/第二章/第二章 进程与线程－进程的概念、组成、内存映像.md",

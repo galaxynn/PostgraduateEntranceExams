@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4">
   <diagram name="第 1 页" id="qFydFbhOLqrvF1hkkchc">
-    <mxGraphModel dx="698" dy="410" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="581" dy="341" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -102,6 +102,27 @@
         </mxCell>
         <mxCell id="0x06ojkuOW1VF-ARh1qX-34" value="采用回写法时才存在" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="324" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-35" value="主存块号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="120" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-36" value="块内地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="160" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-37" value="主存地址" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="386" y="354" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-38" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="449.75" y="251.25" width="20" height="277.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="377" y="425" as="sourcePoint" />
+            <mxPoint x="377" y="449" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-40" value="$$当前主存块号 = \lfloor \frac{当前主存地址}{块大小} \rfloor$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="216" y="440" width="350" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

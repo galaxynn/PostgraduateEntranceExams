@@ -1,0 +1,73 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4">
+  <diagram name="第 1 页" id="qFydFbhOLqrvF1hkkchc">
+    <mxGraphModel dx="581" dy="341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-1" value="一个Cache行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="220" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-2" value="有效位" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="180" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-3" value="脏位" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="220" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-4" value="LRU位" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-5" value="标记位" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="300" y="220" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-7" value="脏位" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="220" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-8" value="数据字节0" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-9" value="数据字节1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="440" y="220" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-10" value="..." style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="520" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-11" value="数据字节k-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="560" y="220" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-12" value="假设Cache行大小（数据块）为 k 字节" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="150" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="490" y="70" width="20" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-14" value="数据块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-15" value="1位" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-16" value="1位" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="329.76" y="240" as="sourcePoint" />
+            <mxPoint x="329.76" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-19" value="不同映射方式下, 标记位的位数不同" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="270" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0x06ojkuOW1VF-ARh1qX-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="340" as="sourcePoint" />
+            <mxPoint x="280" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-21" value="$$log_2(组内行数) 位$$" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="150" width="145" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

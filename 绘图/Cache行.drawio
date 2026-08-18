@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4">
   <diagram name="第 1 页" id="qFydFbhOLqrvF1hkkchc">
-    <mxGraphModel dx="581" dy="341" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="698" dy="410" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,13 +13,13 @@
         <mxCell id="0x06ojkuOW1VF-ARh1qX-3" value="脏位" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="220" y="220" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0x06ojkuOW1VF-ARh1qX-4" value="LRU位" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-4" value="LRU位" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="260" y="220" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0x06ojkuOW1VF-ARh1qX-5" value="标记位" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="300" y="220" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0x06ojkuOW1VF-ARh1qX-7" value="脏位" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-7" value="脏位" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="220" y="220" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0x06ojkuOW1VF-ARh1qX-8" value="数据字节0" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -90,6 +90,18 @@
         </mxCell>
         <mxCell id="0x06ojkuOW1VF-ARh1qX-29" value="块内地址k-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="566" y="240" width="68" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="240" as="sourcePoint" />
+            <mxPoint x="240" y="323" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-33" value="采用LRU算法时才存在" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="123" width="145" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0x06ojkuOW1VF-ARh1qX-34" value="采用回写法时才存在" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="324" width="145" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/计算机组成原理/第四章/第四章 4.1指令系统.md",
+                "file": "考研英语/阅读/不会翻译.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "第四章 4.1指令系统"
+              "title": "不会翻译"
             }
           }
         ]
@@ -197,11 +197,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c27bfec7fc064f8d",
+  "active": "7b4e0aa86bd1c6a6",
   "lastOpenFiles": [
+    "408/计算机组成原理/第四章/第四章 4.1指令系统.md",
     "408/计算机组成原理/第四章/第四章 4.2寻址方式.md",
     "408/计算机组成原理/第四章/第四章 4.3程序的机器级代码表示.md",
-    "408/计算机组成原理/第四章/第四章 4.1指令系统.md",
     "绘图/栈帧.drawio",
     "绘图/栈.drawio",
     "附件/第四章 4.3程序的机器级代码表示 add-1.png",

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/计算机组成原理/第五章/第五章 5.2指令执行过程.md",
+                "file": "408/计算机组成原理/第五章/第五章 5.1CPU的功能和基本结构.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "第五章 5.2指令执行过程"
+              "title": "第五章 5.1CPU的功能和基本结构"
             }
           }
         ]
@@ -97,31 +97,27 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研政治/政治规划.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "408/计算机组成原理/第五章/第五章 5.1CPU的功能和基本结构.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "政治规划 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "a793af596fbd1f41",
+            "id": "a82d22af492e0ebf",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "考研数学/2022年考研数学一143分经验贴(针对26考研进行了大改)_邂逅遗憾/正文.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "正文 的出链列表"
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -159,6 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "408/计算机组成原理/第五章/第五章 5.1CPU的功能和基本结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -166,23 +163,13 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
-          },
-          {
-            "id": "a82d22af492e0ebf",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 204.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,12 +186,12 @@
   },
   "active": "7b4e0aa86bd1c6a6",
   "lastOpenFiles": [
+    "408/计算机组成原理/第五章/第五章 5.2指令执行过程.md",
     "附件/第五章 5.2指令执行过程 指令周期划分.png",
     "附件/Pasted image 20260828212306.png",
     "附件/Pasted image 20260828211719.png",
     "考研英语/阅读/不会翻译.md",
     "考研英语/阅读/介词意思积累.md",
-    "408/计算机组成原理/第五章/第五章 5.2指令执行过程.md",
     "附件/第五章 5.2指令执行过程 指令执行的流程.png",
     "408/计算机组成原理/第五章/第五章 5.1CPU的功能和基本结构.md",
     "408/计算机组成原理/第四章/第四章 4.1指令系统.md",
@@ -222,7 +209,6 @@
     "绘图/栈.drawio",
     "附件/第四章 4.3程序的机器级代码表示 add-1.png",
     "附件/第四章 4.3程序的机器级代码表示 add.png",
-    "附件/第四章 4.3程序的机器级代码表示 leave.png",
     "未命名.md",
     "408/操作系统/第一章 计算机系统概述.md",
     "408/计算机组成原理/第二章/第二章 数据的表示和运算-概念篇.md",

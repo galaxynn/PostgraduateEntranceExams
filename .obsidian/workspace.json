@@ -194,6 +194,20 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "9e8ecf48fa3f488e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "408/计算机组成原理/第四章/第四章 4.2寻址方式.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
           }
         ],
         "currentTab": 1

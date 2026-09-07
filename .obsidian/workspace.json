@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/计算机组成原理/第七章/CO-OS IO接口.md",
+                "file": "408/计算机组成原理/第七章/CO-OS IO方式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "CO-OS IO接口"
+              "title": "CO-OS IO方式"
             }
           },
           {
@@ -216,8 +216,8 @@
   "active": "9352bba965dae86b",
   "lastOpenFiles": [
     "408/计算机组成原理/第七章/CO-OS IO端口.md",
-    "408/计算机组成原理/第七章/CO-OS IO方式.md",
     "408/计算机组成原理/第七章/CO-OS IO接口.md",
+    "408/计算机组成原理/第七章/CO-OS IO方式.md",
     "408/计算机组成原理/第七章/CO-OS 输入输出设备.md",
     "附件/CO-OS IO接口 IO接口结构2.png",
     "附件/CO-OS IO接口 IO接口结构1.png",

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/计算机组成原理/第七章/CO-OS IO方式.md",
+                "file": "408/计算机组成原理/第七章/CO-OS IO接口.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "CO-OS IO方式"
+              "title": "CO-OS IO接口"
             }
           },
           {
@@ -28,16 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/操作系统/第四章/第四章 4.2文件的物理结构.md",
+                "file": "408/计算机组成原理/第七章/CO-OS IO方式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "第四章 4.2文件的物理结构"
+              "title": "CO-OS IO方式"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,12 +214,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9352bba965dae86b",
+  "active": "29332912ed0d2434",
   "lastOpenFiles": [
-    "408/数据结构/算法.md",
-    "408/操作系统/第四章/第四章 4.2文件的物理结构.md",
-    "408/数据结构/排序.md",
+    "408/计算机组成原理/第七章/CO-OS IO接口.md",
     "408/计算机组成原理/第七章/CO-OS IO方式.md",
+    "408/操作系统/第四章/第四章 4.2文件的物理结构.md",
+    "附件/CO-OS IO方式 中断控制器.png",
+    "408/数据结构/算法.md",
+    "408/数据结构/排序.md",
     "附件/CO-OS IO方式 程序中断.png",
     "附件/CO-OS IO方式 程序中断方式.png",
     "考研英语/阅读/不会翻译.md",
@@ -227,7 +230,6 @@
     "附件/CO-OS IO方式 程序查询方式.png",
     "附件/CO-OS IO方式 程序查询方式.png",
     "408/计算机组成原理/第七章/CO-OS IO端口.md",
-    "408/计算机组成原理/第七章/CO-OS IO接口.md",
     "408/计算机组成原理/第七章/CO-OS 输入输出设备.md",
     "附件/CO-OS IO接口 IO接口结构2.png",
     "附件/CO-OS IO接口 IO接口结构1.png",
@@ -247,11 +249,9 @@
     "408/操作系统/第三章/第三章 3.2.6页框回收.md",
     "408/操作系统/第三章/第三章 3.2.8 虚拟存储器性能影响因素.md",
     "408/操作系统/第三章/第三章 3.1.5 段页式存储管理.md",
-    "408/操作系统/第三章/第三章 3.1.4 基本分段存储管理.md",
     "附件/第四章 4.3文件存储空间的管理 成组链接法.png",
     "附件/第四章 4.3文件存储空间的管理 位视图.png",
     "附件/第四章 4.3文件存储空间的管理 空闲表.png",
-    "附件/第四章 4.3虚拟文件系统 write().png",
     "408/操作系统/真题复盘",
     "408/操作系统/第一章",
     "408/操作系统/第四章",

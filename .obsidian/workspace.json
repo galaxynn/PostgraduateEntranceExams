@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/计算机组成原理/第七章/IO方式 计算题.md",
+                "file": "408/计算机组成原理/第七章/CO-OS DMA方式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "IO方式 计算题"
+              "title": "CO-OS DMA方式"
             }
           }
         ],

@@ -229,7 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.1666259765625
+    "width": 228.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,6 +246,7 @@
   },
   "active": "29332912ed0d2434",
   "lastOpenFiles": [
+    "附件/第五章 5.1 IO软件层次结构 IO系统的接口.png",
     "考研英语/阅读/不会翻译.md",
     "408/操作系统/第五章/第五章 5.1 IO软件层次结构.md",
     "附件/第五章 5.1 IO软件层次结构 中断过程.png",

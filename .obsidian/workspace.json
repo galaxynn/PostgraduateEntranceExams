@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研英语/阅读/不会翻译.md",
+                "file": "408/操作系统/第五章/第五章 5.1 IO软件层次结构.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "不会翻译"
+              "title": "第五章 5.1 IO软件层次结构"
             }
           },
           {
@@ -246,6 +246,7 @@
   },
   "active": "29332912ed0d2434",
   "lastOpenFiles": [
+    "考研英语/阅读/不会翻译.md",
     "408/操作系统/第五章/第五章 5.1 IO软件层次结构.md",
     "附件/第五章 5.1 IO软件层次结构 中断过程.png",
     "408/计算机组成原理/第七章/CO-OS IO方式_程序查询和程序中断.md",
@@ -265,7 +266,6 @@
     "附件/CO-OS DMA方式 交替访存.png",
     "附件/CO-OS DMA方式 周期挪用.png",
     "附件/CO-OS DMA方式 停止CPU访存.png",
-    "考研英语/阅读/不会翻译.md",
     "考研英语/阅读/介词意思积累.md",
     "408/计组 IO方式 计算题.md",
     "408/408规划.md",

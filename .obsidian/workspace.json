@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/操作系统/第五章/第五章 5.2假脱机技术(SPOOLing).md",
+                "file": "408/操作系统/第五章/第五章 5.2设备驱动程序.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "第五章 5.2假脱机技术(SPOOLing)"
+              "title": "第五章 5.2设备驱动程序"
             }
           }
         ]
@@ -200,8 +200,9 @@
   },
   "active": "29332912ed0d2434",
   "lastOpenFiles": [
-    "考研英语/阅读/不会翻译.md",
     "408/操作系统/第五章/第五章 5.2假脱机技术(SPOOLing).md",
+    "408/操作系统/第五章/第五章 5.2设备驱动程序.md",
+    "考研英语/阅读/不会翻译.md",
     "附件/第五章 5.2假脱机技术(SPOOLing) 假脱机打印系统.png",
     "附件/第五章 5.2假脱机技术(SPOOLing) 假脱机打印系统.png",
     "附件/第五章 5.2假脱机技术(SPOOLing) SPOOLING.png",

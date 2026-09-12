@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研英语/阅读/不会翻译.md",
+                "file": "408/操作系统/第五章/第五章 5.2假脱机技术(SPOOLing).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "不会翻译"
+              "title": "第五章 5.2假脱机技术(SPOOLing)"
             }
           }
         ]
@@ -200,6 +200,7 @@
   },
   "active": "29332912ed0d2434",
   "lastOpenFiles": [
+    "考研英语/阅读/不会翻译.md",
     "408/操作系统/第五章/第五章 5.2假脱机技术(SPOOLing).md",
     "附件/第五章 5.2假脱机技术(SPOOLing) 假脱机打印系统.png",
     "附件/第五章 5.2假脱机技术(SPOOLing) 假脱机打印系统.png",
@@ -219,7 +220,6 @@
     "绘图/双缓冲区.drawio",
     "绘图/单缓冲区.drawio",
     "408/操作系统/第五章/第五章 5.2设备独立性软件.md",
-    "考研英语/阅读/不会翻译.md",
     "408/操作系统/第五章/第五章 5.1 IO软件层次结构.md",
     "408/数据结构/算法.md",
     "408/数据结构/排序.md",

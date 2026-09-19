@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/计算机网络/QAM.md",
+                "file": "考研英语/阅读/不会翻译.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "QAM"
+              "title": "不会翻译"
             }
           }
         ]
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/计算机网络/QAM.md",
+                "file": "考研英语/阅读/不会翻译.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,11 +198,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a82d22af492e0ebf",
+  "active": "a55860e944766f5a",
   "lastOpenFiles": [
+    "408/计算机网络/QAM.md",
     "408/计算机网络/第二章 物理层.xmind",
     "408/计算机网络/第一章.xmind",
-    "408/计算机网络/QAM.md",
     "skills/outliner-note/SKILL.md",
     "skills/outliner-note",
     "skills/mermaid-visualizer/SKILL.md",

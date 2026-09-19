@@ -11,14 +11,15 @@
             "id": "a55860e944766f5a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "skills/excalidraw-diagram/SKILL.md",
-                "bFile": "skills/excalidraw-diagram/SKILL.md",
-                "aRef": ""
+                "file": "408/计算机网络/QAM.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: SKILL"
+              "icon": "lucide-file",
+              "title": "QAM"
             }
           }
         ]
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/计算机组成原理/第四章/第四章 4.2寻址方式.md",
+                "file": "408/计算机网络/QAM.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,8 +198,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a55860e944766f5a",
+  "active": "a82d22af492e0ebf",
   "lastOpenFiles": [
+    "408/计算机网络/第二章 物理层.xmind",
+    "408/计算机网络/第一章.xmind",
     "408/计算机网络/QAM.md",
     "skills/outliner-note/SKILL.md",
     "skills/outliner-note",
@@ -213,8 +216,6 @@
     "skills/obsidian-markdown/SKILL.md",
     "skills/obsidian-markdown",
     "skills",
-    "408/计算机网络/第二章 物理层.xmind",
-    "408/计算机网络/第一章.xmind",
     "附件/QAM.png",
     "考研英语/阅读/不会翻译.md",
     "408/计算机网络/第一章 1.2 OSI 参考模型和 TCPIP 模型.md",
@@ -244,7 +245,6 @@
     "考研数学/进度.md",
     "408/进度.md",
     "408/数据结构一轮未完全掌握的知识点.md",
-    "408/计组 IO方式 计算题.md",
     "未命名.canvas"
   ]
 }

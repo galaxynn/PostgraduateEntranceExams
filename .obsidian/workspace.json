@@ -11,15 +11,14 @@
             "id": "a55860e944766f5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "408/计算机网络/QAM.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": "skills/excalidraw-diagram/SKILL.md",
+                "bFile": "skills/excalidraw-diagram/SKILL.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "QAM"
+              "icon": "diff",
+              "title": "Diff: SKILL"
             }
           }
         ]
@@ -183,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 335.833251953125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,11 +199,24 @@
   },
   "active": "a55860e944766f5a",
   "lastOpenFiles": [
+    "408/计算机网络/QAM.md",
+    "skills/outliner-note/SKILL.md",
+    "skills/outliner-note",
+    "skills/mermaid-visualizer/SKILL.md",
+    "skills/mermaid-visualizer",
+    "skills/excalidraw-diagram/SKILL.md",
+    "skills/excalidraw-diagram",
+    "skills/obsidian-bases/SKILL.md",
+    "skills/obsidian-bases",
+    "skills/json-canvas/SKILL.md",
+    "skills/json-canvas",
+    "skills/obsidian-markdown/SKILL.md",
+    "skills/obsidian-markdown",
+    "skills",
     "408/计算机网络/第二章 物理层.xmind",
     "408/计算机网络/第一章.xmind",
     "附件/QAM.png",
     "考研英语/阅读/不会翻译.md",
-    "408/计算机网络/QAM.md",
     "408/计算机网络/第一章 1.2 OSI 参考模型和 TCPIP 模型.md",
     "附件/第一章 1.2 OSI 参考模型和 TCPIP 模型 封装.png",
     "408/计算机网络/第一章 1.2计算机网络体系结构.md",
@@ -233,19 +245,6 @@
     "408/进度.md",
     "408/数据结构一轮未完全掌握的知识点.md",
     "408/计组 IO方式 计算题.md",
-    "考研英语/英语一真题/笔记/2010/Text2.md",
-    "考研英语/英语一真题/笔记/2010/Text1.md",
-    "408/操作系统/第一章/第一章 计算机系统概述.md",
-    "408/计算机组成原理/第七章/CO-OS IO方式_程序查询和程序中断.md",
-    "408/计算机组成原理/第一章/第一章 计算机系统的基本组成和性能指标.md",
-    "408/操作系统/第五章/未命名",
-    "绘图/双缓冲区.drawio",
-    "绘图/单缓冲区.drawio",
-    "408/操作系统/第五章",
-    "408/计算机组成原理/第七章/未命名",
-    "408/计算机组成原理/第七章",
-    "408/操作系统/真题复盘",
-    "408/操作系统/第一章",
     "未命名.canvas"
   ]
 }

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研英语/阅读/不会翻译.md",
+                "file": "日记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "不会翻译"
+              "title": "日记"
             }
           }
         ]
@@ -200,6 +200,8 @@
   },
   "active": "a55860e944766f5a",
   "lastOpenFiles": [
+    "3-4重构法.jpg",
+    "考研英语/阅读/不会翻译.md",
     "408/计算机网络/QAM.md",
     "408/计算机网络/第二章 物理层.xmind",
     "408/计算机网络/第一章.xmind",
@@ -217,7 +219,6 @@
     "skills/obsidian-markdown",
     "skills",
     "附件/QAM.png",
-    "考研英语/阅读/不会翻译.md",
     "408/计算机网络/第一章 1.2 OSI 参考模型和 TCPIP 模型.md",
     "附件/第一章 1.2 OSI 参考模型和 TCPIP 模型 封装.png",
     "408/计算机网络/第一章 1.2计算机网络体系结构.md",

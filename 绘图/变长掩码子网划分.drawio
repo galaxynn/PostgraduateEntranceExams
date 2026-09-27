@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4">
   <diagram name="第 1 页" id="QQ2zldk3VSFer80P_BrE">
-    <mxGraphModel dx="832" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="WKmiiGM5LQGQwJdaSBsJ-26" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;华文中宋&quot;&gt;&lt;b&gt;方法论：&lt;br&gt;1. 从根到叶构造二叉树，最后构造出来的二叉树，每个叶子节点对应一个子网。&lt;br&gt;2. 左0右1，先分左，再分右。&lt;br&gt;3. 将子网再次划分时，必须划分出2个子节点，不能只划分出1个子节点。（&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-family: 华文中宋; font-size: 17px;&quot;&gt;每个分支节点必有两个子节点。&lt;/b&gt;&lt;font style=&quot;font-size: 17px;&quot; face=&quot;华文中宋&quot;&gt;&lt;b&gt;）&lt;br&gt;4. 最多划分到/30或者/31&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="256" y="570" width="498" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="WKmiiGM5LQGQwJdaSBsJ-27" value="这是一颗将IP地址192.168.100.0/24划分为&lt;b&gt;4个子网&lt;/b&gt;的二叉树。&lt;br&gt;&lt;b&gt;涵盖了&lt;/b&gt;将IP地址&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;192.168.100.0&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;/25和&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;192.168.100.&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;/25划分为2个子网的&lt;b&gt;子树&lt;/b&gt;。&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;如果题目&lt;b&gt;没有指定是从哪个IP地址开始划分&lt;/b&gt;的，则&lt;b&gt;可以将任意一个分支节点对应的子树单独拿出来讨论，隐藏掉其父节点和兄弟节点的细节，假装是从该IP地址开始划分的。&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;也就是说，写子网划分的题目时，可以选择从一个涵盖所有选项的IP地址开始划分，讨论时可以单独拿出某一个子树，假装是从该子树的根节点开始划分的。&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="760" width="660" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

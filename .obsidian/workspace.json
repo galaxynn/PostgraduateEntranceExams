@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/操作系统/PV/生产者-消费者问题.md",
+                "file": "408/计算机网络/子网划分.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "生产者-消费者问题"
+              "title": "子网划分"
             }
           }
         ]
@@ -200,8 +200,9 @@
   },
   "active": "a55860e944766f5a",
   "lastOpenFiles": [
+    "408/操作系统/PV/生产者-消费者问题复盘.md",
+    "408/计算机网络/子网划分.md",
     "408/操作系统/PV/PV操作大题.md",
-    "408/操作系统/PV/生产者-消费者问题.md",
     "408/操作系统/第二章/第二章 CPU调度-多处理机调度.md",
     "408/操作系统/PV",
     "408/操作系统/第二章/第二章 同步与互斥概念.md",
@@ -233,7 +234,6 @@
     "skills/excalidraw-diagram",
     "skills/obsidian-bases/SKILL.md",
     "skills/obsidian-bases",
-    "skills/json-canvas/SKILL.md",
     "skills/json-canvas",
     "skills/obsidian-markdown",
     "skills",

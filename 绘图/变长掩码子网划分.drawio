@@ -1,32 +1,74 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4">
   <diagram name="第 1 页" id="QQ2zldk3VSFer80P_BrE">
-    <mxGraphModel dx="905" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="832" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WKmiiGM5LQGQwJdaSBsJ-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;192.168.100./24&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="400" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WKmiiGM5LQGQwJdaSBsJ-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;192.168.100.0/25&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="240" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="WKmiiGM5LQGQwJdaSBsJ-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;192.168.100.&lt;b&gt;0&lt;/b&gt;/25&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="260" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WKmiiGM5LQGQwJdaSBsJ-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;192.168.100.1/25&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="560" y="460" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WKmiiGM5LQGQwJdaSBsJ-6" value="分析IP地址时，可以仅将&lt;b&gt;有需要的部分&lt;/b&gt;展开为&lt;b&gt;二进制&lt;/b&gt;表示。&lt;br&gt;例如，网络前缀为/24时，我们不关心前24位的网络前缀字段，&lt;b&gt;仅关心后8位的主机号字段&lt;/b&gt;。&lt;br&gt;因为&lt;b&gt;子网划分是将主机号字段进行划分&lt;/b&gt;。&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WKmiiGM5LQGQwJdaSBsJ-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;分析IP地址时，可以仅将&lt;b style=&quot;&quot;&gt;有需要的部分&lt;/b&gt;展开为&lt;b style=&quot;&quot;&gt;二进制&lt;/b&gt;表示。&lt;br&gt;例如，网络前缀为/24时，我们不关心前24位的网络前缀字段，&lt;b style=&quot;&quot;&gt;仅关心后8位的主机号字段&lt;/b&gt;。&lt;br&gt;因为&lt;b style=&quot;&quot;&gt;子网划分是将主机号字段进行划分&lt;/b&gt;。&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="160" width="500" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="WKmiiGM5LQGQwJdaSBsJ-7" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;我们将最后一段展开为二进制，即192.168.100.&lt;b&gt;00000000&lt;/b&gt;/24，我们只关注即将从主机号字段划分出来的“子网号字段”，因此，可以简记为 192.168.100.&lt;b&gt; &lt;/b&gt;/24，甚至可以记为./24，表示未划分前的初始状态。&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="250" width="540" height="50" as="geometry" />
+        <mxCell id="WKmiiGM5LQGQwJdaSBsJ-7" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;我们将最后一段展开为二进制，即192.168.100.&lt;b style=&quot;&quot;&gt;00000000&lt;/b&gt;/24，我们只关注&lt;b&gt;即将&lt;/b&gt;从主机号字段划分出来的“子网号字段”，因此，可以&lt;b&gt;简记&lt;/b&gt;为 192.168.100.&lt;b style=&quot;&quot;&gt; &lt;/b&gt;/24，甚至可以记为./24，表示未划分前的初始状态。（也就是暂时省略掉了后面的主机号字段）&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="250" width="590" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WKmiiGM5LQGQwJdaSBsJ-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;192.168.100.0/25&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="120" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="WKmiiGM5LQGQwJdaSBsJ-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;192.168.100.&lt;b&gt;00&lt;/b&gt;/26&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="160" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WKmiiGM5LQGQwJdaSBsJ-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;192.168.100.0/25&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="360" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="WKmiiGM5LQGQwJdaSBsJ-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;192.168.100.&lt;b&gt;01&lt;/b&gt;/26&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="360" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WKmiiGM5LQGQwJdaSBsJ-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;192.168.100.0/25&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="480" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="WKmiiGM5LQGQwJdaSBsJ-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;192.168.100.&lt;b&gt;1&lt;/b&gt;/25&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="607" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WKmiiGM5LQGQwJdaSBsJ-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;192.168.100.&lt;b&gt;10&lt;/b&gt;/26&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="507" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WKmiiGM5LQGQwJdaSBsJ-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;192.168.100.&lt;b&gt;11&lt;/b&gt;/26&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="707" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WKmiiGM5LQGQwJdaSBsJ-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WKmiiGM5LQGQwJdaSBsJ-4" target="WKmiiGM5LQGQwJdaSBsJ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="460" as="sourcePoint" />
+            <mxPoint x="590" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WKmiiGM5LQGQwJdaSBsJ-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WKmiiGM5LQGQwJdaSBsJ-15" target="WKmiiGM5LQGQwJdaSBsJ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="460" as="sourcePoint" />
+            <mxPoint x="590" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WKmiiGM5LQGQwJdaSBsJ-22" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WKmiiGM5LQGQwJdaSBsJ-12" target="WKmiiGM5LQGQwJdaSBsJ-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="510" as="sourcePoint" />
+            <mxPoint x="580" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WKmiiGM5LQGQwJdaSBsJ-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WKmiiGM5LQGQwJdaSBsJ-13" target="WKmiiGM5LQGQwJdaSBsJ-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="510" as="sourcePoint" />
+            <mxPoint x="580" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WKmiiGM5LQGQwJdaSBsJ-24" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WKmiiGM5LQGQwJdaSBsJ-16" target="WKmiiGM5LQGQwJdaSBsJ-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="510" as="sourcePoint" />
+            <mxPoint x="580" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WKmiiGM5LQGQwJdaSBsJ-25" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WKmiiGM5LQGQwJdaSBsJ-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="510" as="sourcePoint" />
+            <mxPoint x="670" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WKmiiGM5LQGQwJdaSBsJ-26" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;华文中宋&quot;&gt;&lt;b&gt;方法论：&lt;br&gt;1. 从根到叶构造二叉树，最后构造出来的二叉树，每个叶子节点对应一个子网。&lt;br&gt;2. 左0右1，先分左，再分右。&lt;br&gt;3. 将子网再次划分时，必须划分出2个子节点，不能只划分出1个子节点。（&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-family: 华文中宋; font-size: 17px;&quot;&gt;每个分支节点必有两个子节点。&lt;/b&gt;&lt;font style=&quot;font-size: 17px;&quot; face=&quot;华文中宋&quot;&gt;&lt;b&gt;）&lt;br&gt;4. 最多划分到/30或者/31&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="256" y="570" width="498" height="155" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

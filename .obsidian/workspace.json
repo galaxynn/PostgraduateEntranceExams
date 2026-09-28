@@ -67,7 +67,8 @@
               "title": "第五章 树与二叉树的应用"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,10 +244,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a55860e944766f5a",
+  "active": "92f6416f7a13dd8c",
   "lastOpenFiles": [
-    "408/数据结构/排序.md",
     "408/数据结构/算法.md",
+    "408/数据结构/排序.md",
     "考研英语/阅读/不会翻译.md",
     "408/计算机网络/子网划分.md",
     "绘图/变长掩码子网划分.drawio",

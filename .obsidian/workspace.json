@@ -216,6 +216,12 @@
   },
   "active": "05c99a590d2e21ec",
   "lastOpenFiles": [
+    "附件/网络层 DHCP3.png",
+    "附件/网络层 DHCP2.png",
+    "附件/网络层 DHCP1.png",
+    "附件/网络层 DHCP.png",
+    "附件/DHCP.drawio.png",
+    "附件/网络层 中继代理.png",
     "绘图/DHCP.drawio",
     "附件/网络层 ARP情况.png",
     "附件/网络层 ARP.png",
@@ -240,13 +246,8 @@
     "考研英语/作文笔记.md",
     "附件/作文笔记-1.png",
     "附件/作文笔记.png",
-    "附件/9ad0bbc7fad58b2d4c1ea1d2f6aa1bf0.png",
     "考研英语/阅读/不会翻译.md",
     "408/计算机网络/网络层.md",
-    "附件/网络层 地址块.png",
-    "附件/网络层 cidr.png",
-    "附件/网络层 不使用.png",
-    "附件/网络层 数量.png",
     "408/计算机网络/滑动窗口协议.md",
     "408/计算机网络/子网划分.md",
     "408/计算机网络/未命名",
@@ -261,7 +262,6 @@
     "skills/mermaid-visualizer",
     "skills/excalidraw-diagram",
     "skills/obsidian-bases",
-    "skills/json-canvas",
     "未命名.canvas"
   ]
 }

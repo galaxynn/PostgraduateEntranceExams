@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/计算机网络/网络层.md",
+                "file": "考研英语/阅读/不会翻译.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "网络层"
+              "title": "不会翻译"
             }
           }
         ],
@@ -216,6 +216,7 @@
   },
   "active": "05c99a590d2e21ec",
   "lastOpenFiles": [
+    "408/计算机网络/网络层.md",
     "附件/网络层 icmp4.png",
     "附件/网络层 icmp3.png",
     "附件/icmp2.png",
@@ -226,7 +227,6 @@
     "附件/网络层 DHCP1.png",
     "附件/网络层 DHCP.png",
     "附件/DHCP.drawio.png",
-    "附件/网络层 中继代理.png",
     "绘图/DHCP.drawio",
     "408/操作系统/PV/哲学家问题复盘.md",
     "408/操作系统/PV/PV操作大题.md",
@@ -247,7 +247,6 @@
     "408/数据结构/算法.md",
     "考研英语/作文笔记.md",
     "考研英语/阅读/不会翻译.md",
-    "408/计算机网络/网络层.md",
     "408/计算机网络/滑动窗口协议.md",
     "408/计算机网络/子网划分.md",
     "408/计算机网络/未命名",

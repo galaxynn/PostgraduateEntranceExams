@@ -37,8 +37,7 @@
               "title": "PV操作大题"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,12 +107,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "a82d22af492e0ebf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "1d4ff8a2a75e71f8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "408/计算机组成原理/第四章/第四章 4.2寻址方式.md",
+                "file": "408/操作系统/PV/PV操作大题.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,16 +133,6 @@
               },
               "icon": "links-coming-in",
               "title": "反向链接"
-            }
-          },
-          {
-            "id": "a82d22af492e0ebf",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
             }
           },
           {
@@ -166,21 +165,6 @@
             }
           },
           {
-            "id": "8d410c75ec026c24",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "考研英语/阅读/不会翻译.md",
-                "followCursor": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "大纲"
-            }
-          },
-          {
             "id": "9e8ecf48fa3f488e",
             "type": "leaf",
             "state": {
@@ -194,12 +178,11 @@
               "title": "出链"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 367.1666259765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,12 +199,12 @@
   },
   "active": "35ffd9fd2011d5da",
   "lastOpenFiles": [
-    "附件/9906ea38306c96f59600ca61fa32b555.png",
-    "408/操作系统/PV/读者-写者问题.md",
-    "408/操作系统/PV/哲学家问题复盘.md",
-    "408/操作系统/PV/PV操作大题.md",
-    "408/操作系统/第二章/第二章 CPU调度-多处理机调度.md",
     "408/操作系统/PV/生产者-消费者问题复盘.md",
+    "408/操作系统/PV/哲学家问题复盘.md",
+    "408/操作系统/PV/读者-写者问题.md",
+    "408/操作系统/PV/PV操作大题.md",
+    "附件/9906ea38306c96f59600ca61fa32b555.png",
+    "408/操作系统/第二章/第二章 CPU调度-多处理机调度.md",
     "考研英语/阅读/不会翻译.md",
     "408/计算机网络/第一章 1.1计算机网络的性能指标.md",
     "408/计算机网络/第一章 1.2计算机网络体系结构.md",
@@ -249,7 +232,6 @@
     "附件/网络层 ICMP.png",
     "附件/网络层 DHCP3.png",
     "附件/网络层 DHCP2.png",
-    "附件/网络层 DHCP1.png",
     "绘图/DHCP.drawio",
     "408/操作系统/第二章/第二章 同步与互斥概念.md",
     "408/数据结构/第五章/第五章 树与二叉树的应用.md",

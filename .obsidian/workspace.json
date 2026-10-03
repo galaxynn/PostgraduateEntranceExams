@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/操作系统/PV/PV操作大题.md",
+                "file": "408/操作系统/第二章/第二章 进程与线程－进程的概念、组成、内存映像.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "PV操作大题"
+              "title": "第二章 进程与线程－进程的概念、组成、内存映像"
             }
           },
           {
@@ -28,16 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/操作系统/PV/PV操作大题.md",
+                "file": "考研数学/数学考点总结及薄弱点突破/数学薄弱点突破.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "PV操作大题"
+              "title": "数学薄弱点突破"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,6 +108,21 @@
         "type": "tabs",
         "children": [
           {
+            "id": "422a91bd4c59fd11",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "考研数学/数学考点总结及薄弱点突破/数学薄弱点突破.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
             "id": "a82d22af492e0ebf",
             "type": "leaf",
             "state": {
@@ -122,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "408/操作系统/PV/PV操作大题.md",
+                "file": "考研数学/数学考点总结及薄弱点突破/数学薄弱点突破.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -182,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.1666259765625
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,10 +215,28 @@
   },
   "active": "35ffd9fd2011d5da",
   "lastOpenFiles": [
+    "考研数学/数学考点总结及薄弱点突破/数学考点总结.md",
+    "考研数学/数学考点总结及薄弱点突破/数学薄弱点突破.md",
+    "考研数学/错题记录.md",
+    "考研数学/强化学习记录.md",
+    "考研数学/线代.md",
+    "考研数学/Math.md",
+    "考研数学/数学考点总结及薄弱点突破/未命名",
+    "考研数学/AI 总结.md",
+    "考研数学/数学考点总结及薄弱点突破",
+    "考研数学/数学规划.md",
+    "考研数学/一元积分小观.md",
+    "考研数学/进度.md",
+    "408/408规划.md",
+    "408/计组 IO方式 计算题.md",
+    "408/进度.md",
+    "408/数据结构一轮未完全掌握的知识点.md",
+    "408/操作系统/PV/PV操作大题.md",
+    "408/操作系统/第二章/第二章 进程与线程－进程的概念、组成、内存映像.md",
+    "408/操作系统/第二章/第二章 进程和线程－线程和多线程模型.md",
     "408/操作系统/PV/生产者-消费者问题复盘.md",
     "408/操作系统/PV/哲学家问题复盘.md",
     "408/操作系统/PV/读者-写者问题.md",
-    "408/操作系统/PV/PV操作大题.md",
     "附件/9906ea38306c96f59600ca61fa32b555.png",
     "408/操作系统/第二章/第二章 CPU调度-多处理机调度.md",
     "考研英语/阅读/不会翻译.md",
@@ -210,21 +244,8 @@
     "408/计算机网络/第一章 1.2计算机网络体系结构.md",
     "408/计算机网络/第一章 1.2 OSI 参考模型和 TCPIP 模型.md",
     "408/计算机网络/第一章 1.1电路交换、报文交换与分组交换.md",
-    "408/计算机网络/第一章 1.1计算机网络概述.md",
-    "408/计算机网络/QAM.md",
-    "408/计算机网络/滑动窗口协议.md",
-    "408/计算机网络/子网划分.md",
     "408/计算机网络/计网.png",
-    "408/计算机网络/网络层.md",
-    "408/计算机网络/路由选择协议.md",
     "附件/路由选择协议.png",
-    "408/数据结构/题单.md",
-    "408/数据结构/算法.md",
-    "408/数据结构/需记忆的内容总结.md",
-    "408/数据结构/从卡特兰数引出的动态规划专题.md",
-    "408/数据结构/排序.md",
-    "408/操作系统/第二章/第二章 信号量.md",
-    "408/操作系统/第二章/第二章 互斥锁.md",
     "附件/网络层 icmp4.png",
     "附件/网络层 icmp3.png",
     "附件/icmp2.png",
@@ -233,8 +254,6 @@
     "附件/网络层 DHCP3.png",
     "附件/网络层 DHCP2.png",
     "绘图/DHCP.drawio",
-    "408/操作系统/第二章/第二章 同步与互斥概念.md",
-    "408/数据结构/第五章/第五章 树与二叉树的应用.md",
     "408/计算机网络/未命名",
     "绘图/变长掩码子网划分.drawio",
     "408/操作系统/PV",
@@ -242,8 +261,6 @@
     "408/计算机网络/第一章.xmind",
     "skills/outliner-note",
     "skills/mermaid-visualizer",
-    "skills/excalidraw-diagram",
-    "skills/obsidian-bases",
     "未命名.canvas"
   ]
 }

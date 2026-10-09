@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研数学/矩阵乘向量.md",
+                "file": "日记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "矩阵乘向量"
+              "title": "日记"
+            }
+          },
+          {
+            "id": "a8b1b9fd1c74a019",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "408/操作系统/PV/PV打卡/24年真题.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "24年真题"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研数学/矩阵乘向量.md",
+                "file": "408/操作系统/PV/PV打卡/24年真题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,12 +213,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "35ffd9fd2011d5da",
+  "active": "a8b1b9fd1c74a019",
   "lastOpenFiles": [
-    "考研数学/强化学习记录.md",
-    "考研数学/矩阵乘向量.md",
-    "考研数学/Math.md",
+    "日记.md",
+    "附件/日记 报名.png",
+    "408/操作系统/PV/PV打卡/24年真题.md",
+    "附件/24年真题.png",
+    "408/操作系统/PV/PV打卡/25年真题.md",
+    "408/操作系统/PV/PV打卡/未命名",
+    "模板/英语阅读.md",
     "考研数学/数学考点总结及薄弱点突破/数学考点总结.md",
+    "考研数学/矩阵乘向量.md",
+    "考研数学/强化学习记录.md",
+    "考研数学/Math.md",
     "附件/数学考点总结 第二章2.png",
     "附件/数学考点总结 第二章0.png",
     "附件/数学考点总结 第二章1.png",
@@ -215,8 +238,6 @@
     "附件/找规律 2.png",
     "附件/找规律 1.png",
     "附件/大作文 万能.png",
-    "附件/大作文 双图表.png",
-    "附件/大作文 静态.png",
     "考研英语/考研英语作文真题题目汇总.pdf",
     "考研英语/27考研英语大作文模板.pdf",
     "考研英语/27考研英语大作文模板(a).pdf",
@@ -227,9 +248,7 @@
     "考研英语/作文突破",
     "考研英语/新建文件夹",
     "考研英语/作文/作文.md",
-    "考研英语/作文/未命名",
     "408/计算机网络/TCP连接建立与释放.md",
-    "408/操作系统/PV/PV打卡/25年真题.md",
     "考研英语/收集/作文模板/英语作文.md",
     "408/操作系统/第二章/第二章 进程与线程－进程的概念、组成、内存映像.md",
     "考研英语/作文/作文入门.md",
@@ -242,8 +261,6 @@
     "考研数学/数学规划.md",
     "考研数学/一元积分小观.md",
     "考研数学/进度.md",
-    "408/408规划.md",
-    "408/计组 IO方式 计算题.md",
     "未命名.canvas"
   ]
 }

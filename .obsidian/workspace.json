@@ -36,8 +36,21 @@
               "icon": "lucide-file",
               "title": "数学考点总结"
             }
+          },
+          {
+            "id": "cfd6aaaec91bf10f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.14.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,7 +226,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a82d22af492e0ebf",
+  "active": "cfd6aaaec91bf10f",
   "lastOpenFiles": [
     "附件/9dd250cac455ae93fc49e53dac4b7c40.jpg",
     "附件/f67995355852c7797c76385cc8650ffe.jpg",

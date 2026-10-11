@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/计算机网络/网络层.md",
+                "file": "408/计算机网络/码元相关.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "网络层"
+              "title": "码元相关"
             }
           }
         ]
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/计算机网络/网络层.md",
+                "file": "408/计算机网络/码元相关.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,8 +199,10 @@
   },
   "active": "180d064d902ae4d7",
   "lastOpenFiles": [
-    "408/计算机网络/滑动窗口协议.md",
+    "附件/码元相关.png",
     "408/计算机网络/网络层.md",
+    "408/计算机网络/码元相关.md",
+    "408/计算机网络/滑动窗口协议.md",
     "408/计算机网络/路由选择协议.md",
     "408/计算机网络/TCP连接建立与释放.md",
     "408/计算机网络/HTTP.md",
@@ -231,7 +233,6 @@
     "附件/3979fd7179092b8235ae559a84f2b3b9.jpg",
     "附件/23年真题 pv.png",
     "考研数学/真题复盘/数学｜2012年真题.md",
-    "考研数学/数学考点总结及薄弱点突破/数学考点总结.md",
     "附件/9dd250cac455ae93fc49e53dac4b7c40.jpg",
     "附件/f67995355852c7797c76385cc8650ffe.jpg",
     "附件/06c704a45b718e318e7e9472571fe8be.jpg",

@@ -194,7 +194,8 @@
               "title": "出链"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,7 +214,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a8b1b9fd1c74a019",
+  "active": "a82d22af492e0ebf",
   "lastOpenFiles": [
     "408/计算机网络/每日一题/9月.md",
     "考研英语/翻译/2015年翻译.md",

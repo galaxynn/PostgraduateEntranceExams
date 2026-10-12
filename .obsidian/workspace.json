@@ -228,11 +228,11 @@
           }
         ],
         "direction": "vertical",
-        "x": 1030,
-        "y": 62,
-        "width": 638,
-        "height": 760,
-        "maximize": false,
+        "x": 385,
+        "y": 110,
+        "width": 943,
+        "height": 818,
+        "maximize": true,
         "zoom": 0
       }
     ]

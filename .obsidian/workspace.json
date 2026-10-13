@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/真题复盘/2009.md",
+                "file": "考研数学/数学考点总结及薄弱点突破/数学薄弱点突破.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2009"
+              "title": "数学薄弱点突破"
             }
           },
           {
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/真题复盘/2009.md",
+                "file": "考研数学/数学考点总结及薄弱点突破/数学薄弱点突破.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -245,8 +245,8 @@
   },
   "active": "12d5b92e421abc5b",
   "lastOpenFiles": [
-    "408/计算机组成原理/第四章/第四章 4.2寻址方式.md",
     "408/真题复盘/2009.md",
+    "408/计算机组成原理/第四章/第四章 4.2寻址方式.md",
     "考研数学/真题复盘/数学｜2013年真题.md",
     "408/计算机组成原理/第六章/第六章 6.1总线概述.md",
     "附件/2009 4647.png",

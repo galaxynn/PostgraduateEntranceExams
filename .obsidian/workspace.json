@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研英语/翻译/2016年翻译.md",
+                "file": "考研英语/作文/大作文.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2016年翻译"
+              "title": "大作文"
             }
           }
         ]
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研英语/翻译/2016年翻译.md",
+                "file": "考研英语/作文/大作文.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,8 +199,9 @@
   },
   "active": "180d064d902ae4d7",
   "lastOpenFiles": [
-    "考研数学/真题复盘/数学｜2013年真题.md",
+    "考研英语/作文/小作文.md",
     "考研英语/翻译/2016年翻译.md",
+    "考研数学/真题复盘/数学｜2013年真题.md",
     "考研英语/英语二真题/2026考研（英语二）试题.pdf",
     "考研英语/英语二真题/2025年考研英语二真题.pdf",
     "考研英语/英语二真题/2024年考研英语二真题【可复制搜索查词】.pdf",
@@ -244,7 +245,6 @@
     "408/408规划.md",
     "408/数据结构一轮未完全掌握的知识点.md",
     "考研数学/真题复盘/数学｜2012年真题.md",
-    "考研数学/真题复盘/数学｜20xx年真题.md",
     "未命名.canvas"
   ]
 }

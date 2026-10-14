@@ -209,7 +209,8 @@
               "title": "出链"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -228,7 +229,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "850b1551351f03db",
+  "active": "a82d22af492e0ebf",
   "lastOpenFiles": [
     "考研数学/数学考点总结及薄弱点突破/数学考点总结.md",
     "考研数学/数学考点总结及薄弱点突破/数学薄弱点突破.md",

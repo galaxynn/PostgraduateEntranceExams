@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/数据结构/第七章/第七章 散列表（哈希表）.md",
+                "file": "考研英语/作文/大作文.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "第七章 散列表（哈希表）"
+              "title": "大作文"
             }
           },
           {
@@ -67,8 +67,7 @@
               "title": "第四章 4.3文件存储空间的管理"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.16668701171875
+    "width": 302.16668701171875
   },
   "right": {
     "id": "b0f1c0ec31f196fc",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/真题复盘/2010.md",
+                "file": "考研英语/作文/大作文.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -228,7 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.833251953125
+    "width": 209.1666259765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,18 +242,58 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b286c0e06cdfdd40",
+  "floating": {
+    "id": "89b79e7a0353e207",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9f9efbc32ce6f9b4",
+        "type": "window",
+        "children": [
+          {
+            "id": "7ee81c0272d5f0c9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c3e8d5f709e7e790",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考研英语/作文/大作文.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "大作文"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 209,
+        "y": 98,
+        "width": 1423,
+        "height": 801,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c3e8d5f709e7e790",
   "lastOpenFiles": [
-    "408/计算机组成原理/第三章/第三章 3.5 高速缓冲存储器2.md",
-    "408/计算机组成原理/第三章/第三章 3.5 高速缓冲存储器1.md",
-    "408/真题复盘/2010.md",
-    "408/操作系统/第四章/第四章 4.3文件存储空间的管理.md",
+    "408/计算机网络/每日一题/9月.md",
     "408/数据结构/第七章/第七章 散列表（哈希表）.md",
+    "408/计算机组成原理/第三章/第三章 3.5 高速缓冲存储器2.md",
+    "408/真题复盘/2010.md",
+    "408/计算机组成原理/第三章/第三章 3.5 高速缓冲存储器1.md",
+    "408/操作系统/第四章/第四章 4.3文件存储空间的管理.md",
     "附件/第七章 散列表哈希表拉链.png",
     "408/数据结构/第七章/第七章 查找的概念-顺序查找和折半查找.md",
     "提速.md",
     "408/真题复盘/2009.md",
-    "408/计算机网络/每日一题/9月.md",
     "附件/9月 26.png",
     "附件/9月 25-1.png",
     "附件/9月 25.png",

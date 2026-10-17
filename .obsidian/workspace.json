@@ -8,51 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b286c0e06cdfdd40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/计算机组成原理/第三章/第三章 3.5 高速缓冲存储器1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "第三章 3.5 高速缓冲存储器1"
-            }
-          },
-          {
-            "id": "094daa203d4c302e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/计算机组成原理/第三章/第三章 3.2.3 多模块存储器.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "第三章 3.2.3 多模块存储器"
-            }
-          },
-          {
-            "id": "5bb5c73c4538048d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/计算机组成原理/第三章/第三章 3.3 主存储器与CPU的连接.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "第三章 3.3 主存储器与CPU的连接"
-            }
-          },
-          {
             "id": "86bd98a86fb0121b",
             "type": "leaf",
             "state": {
@@ -68,22 +23,37 @@
             }
           },
           {
-            "id": "9f1c39d98688fad3",
+            "id": "83a1e9e6ed3b51a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/计算机组成原理/第三章/第三章 3.2.3 多模块存储器.md",
+                "file": "408/操作系统/第二章/第二章 进程和线程－进程的状态与转换.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "第三章 3.2.3 多模块存储器"
+              "title": "第二章 进程和线程－进程的状态与转换"
+            }
+          },
+          {
+            "id": "527cd5a72f192d96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "408/操作系统/第五章/第五章 5.2设备的分配与回收.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "第五章 5.2设备的分配与回收"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.8333435058594
+    "width": 430.8333435058594
   },
   "right": {
     "id": "b0f1c0ec31f196fc",
@@ -158,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/真题复盘/2010.md",
+                "file": "408/操作系统/第五章/第五章 5.2设备的分配与回收.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -258,15 +228,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "86bd98a86fb0121b",
+  "active": "527cd5a72f192d96",
   "lastOpenFiles": [
-    "408/计算机组成原理/第三章/第三章 3.3 主存储器与CPU的连接.md",
-    "408/计算机组成原理/第三章/第三章 3.2.3 多模块存储器.md",
     "408/真题复盘/2010.md",
+    "408/操作系统/第二章/第二章 进程和线程－进程的状态与转换.md",
+    "408/操作系统/第五章/第五章 5.2设备的分配与回收.md",
+    "408/计算机组成原理/第三章/第三章 3.2.3 多模块存储器.md",
+    "408/计算机组成原理/第三章/第三章 3.5 高速缓冲存储器1.md",
+    "408/计算机组成原理/第三章/第三章 3.3 主存储器与CPU的连接.md",
     "408/数据结构/第五章/第五章 线索二叉树.md",
     "408/数据结构/第七章/第七章 树形查找-二叉排序树.md",
     "408/数据结构/第七章/第七章 查找的概念-顺序查找和折半查找.md",
-    "408/计算机组成原理/第三章/第三章 3.5 高速缓冲存储器1.md",
     "考研英语/作文/万能理由.md",
     "408/计算机组成原理/第三章/第三章 3.2.2 非易失性存储器.md",
     "408/计算机组成原理/第三章/第三章 3.2.1 半导体随机存取存储器.md",
@@ -286,9 +258,7 @@
     "日记.md",
     "考研英语/作文/未命名",
     "408/计算机网络/每日一题/9月.md",
-    "408/操作系统/第四章/第四章 4.3文件存储空间的管理.md",
     "附件/第七章 散列表哈希表拉链.png",
-    "408/真题复盘/2009.md",
     "附件/9月 26.png",
     "附件/9月 25-1.png",
     "附件/9月 25.png",

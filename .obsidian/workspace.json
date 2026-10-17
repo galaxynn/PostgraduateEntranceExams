@@ -8,48 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86bd98a86fb0121b",
+            "id": "cb54525832fa2fcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/真题复盘/2010.md",
+                "file": "考研英语/翻译/2017年翻译.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2010"
-            }
-          },
-          {
-            "id": "136cd53c5f15ef08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/操作系统/第三章/第三章 3.1.4 基本分段存储管理.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "第三章 3.1.4 基本分段存储管理"
-            }
-          },
-          {
-            "id": "15d2e83212d4aa1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/操作系统/第三章/第三章 3.1.3 基本分页存储管理.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "第三章 3.1.3 基本分页存储管理"
+              "title": "2017年翻译"
             }
           }
         ]
@@ -127,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/真题复盘/2010.md",
+                "file": "考研英语/翻译/2017年翻译.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -227,12 +197,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "86bd98a86fb0121b",
+  "active": "cb54525832fa2fcc",
   "lastOpenFiles": [
-    "408/操作系统/第二章/第二章 实现临界区互斥的基本方法－软件.md",
-    "408/操作系统/第三章/第三章 3.1.4 基本分段存储管理.md",
-    "408/操作系统/第三章/第三章 3.1.3 基本分页存储管理.md",
+    "考研英语/阅读/介词意思积累.md",
+    "考研英语/翻译/2017年翻译.md",
+    "考研英语/阅读/唐迟阅读方法论大观.md",
+    "考研英语/阅读/不会翻译.md",
     "408/真题复盘/2010.md",
+    "408/操作系统/第三章/第三章 3.1.3 基本分页存储管理.md",
+    "408/操作系统/第三章/第三章 3.1.4 基本分段存储管理.md",
+    "408/操作系统/第二章/第二章 实现临界区互斥的基本方法－软件.md",
     "408/操作系统/第五章/第五章 5.2设备的分配与回收.md",
     "408/操作系统/第二章/第二章 进程和线程－进程的状态与转换.md",
     "408/操作系统/第二章/第二章 同步与互斥概念.md",
@@ -252,10 +226,6 @@
     "408/数据结构/第七章/第七章 散列表（哈希表）.md",
     "408/数据结构/第七章/第七章 树状查找-平衡二叉树.md",
     "附件/2010 34重构.png",
-    "408/计算机组成原理/第三章/第三章 3.5 高速缓冲存储器2.md",
-    "408/计算机组成原理/第四章/第四章 4.4CISC和RISC的概念.md",
-    "考研数学/题/积分计算技巧.md",
-    "考研数学/数学考点总结及薄弱点突破/一元积分小观.md",
     "考研英语/作文/未命名",
     "附件/第七章 散列表哈希表拉链.png",
     "附件/9月 26.png",

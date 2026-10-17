@@ -53,18 +53,48 @@
             }
           },
           {
-            "id": "5bc182ae5f4b4377",
+            "id": "8965feb61c04b827",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/数据结构/第七章/第七章 树状查找-平衡二叉树.md",
+                "file": "408/数据结构/第五章/第五章 线索二叉树.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "第七章 树状查找-平衡二叉树"
+              "title": "第五章 线索二叉树"
+            }
+          },
+          {
+            "id": "5bc182ae5f4b4377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "408/数据结构/第七章/第七章 查找的概念-顺序查找和折半查找.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "第七章 查找的概念-顺序查找和折半查找"
+            }
+          },
+          {
+            "id": "898e83352057a7e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "408/数据结构/第七章/第七章 树形查找-二叉排序树.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "第七章 树形查找-二叉排序树"
             }
           }
         ],
@@ -127,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.8333435058594
+    "width": 323.5
   },
   "right": {
     "id": "b0f1c0ec31f196fc",
@@ -143,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/数据结构/第七章/第七章 树状查找-平衡二叉树.md",
+                "file": "408/数据结构/第五章/第五章 线索二叉树.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -243,12 +273,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5bc182ae5f4b4377",
+  "active": "8965feb61c04b827",
   "lastOpenFiles": [
     "408/真题复盘/2010.md",
-    "附件/2010 34重构.png",
-    "408/数据结构/第七章/第七章 树状查找-平衡二叉树.md",
+    "408/数据结构/第七章/第七章 查找的概念-顺序查找和折半查找.md",
+    "408/数据结构/第七章/第七章 B+树.md",
     "408/数据结构/第七章/第七章 树形查找-二叉排序树.md",
+    "408/数据结构/第七章/第七章 散列表（哈希表）.md",
+    "408/数据结构/第七章/第七章 树状查找-平衡二叉树.md",
+    "附件/2010 34重构.png",
     "408/计算机组成原理/第三章/第三章 3.5 高速缓冲存储器1.md",
     "408/计算机组成原理/第三章/第三章 3.5 高速缓冲存储器2.md",
     "408/计算机组成原理/第四章/第四章 4.4CISC和RISC的概念.md",
@@ -262,10 +295,8 @@
     "日记.md",
     "考研英语/作文/未命名",
     "408/计算机网络/每日一题/9月.md",
-    "408/数据结构/第七章/第七章 散列表（哈希表）.md",
     "408/操作系统/第四章/第四章 4.3文件存储空间的管理.md",
     "附件/第七章 散列表哈希表拉链.png",
-    "408/数据结构/第七章/第七章 查找的概念-顺序查找和折半查找.md",
     "408/真题复盘/2009.md",
     "附件/9月 26.png",
     "附件/9月 25-1.png",

@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "99a8b21850394a5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研英语/作文/万能理由.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "万能理由"
-            }
-          },
-          {
             "id": "b286c0e06cdfdd40",
             "type": "leaf",
             "state": {
@@ -43,62 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/计算机组成原理/第三章/第三章 3.2.3 多模块存储器.md",
+                "file": "408/计算机组成原理/第三章/第三章 3.3 主存储器与CPU的连接.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "第三章 3.2.3 多模块存储器"
-            }
-          },
-          {
-            "id": "8965feb61c04b827",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/数据结构/第五章/第五章 线索二叉树.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "第五章 线索二叉树"
-            }
-          },
-          {
-            "id": "5bc182ae5f4b4377",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/数据结构/第七章/第七章 查找的概念-顺序查找和折半查找.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "第七章 查找的概念-顺序查找和折半查找"
-            }
-          },
-          {
-            "id": "898e83352057a7e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/数据结构/第七章/第七章 树形查找-二叉排序树.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "第七章 树形查找-二叉排序树"
+              "title": "第三章 3.3 主存储器与CPU的连接"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/计算机组成原理/第三章/第三章 3.2.3 多模块存储器.md",
+                "file": "408/计算机组成原理/第三章/第三章 3.3 主存储器与CPU的连接.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -275,27 +215,27 @@
   },
   "active": "094daa203d4c302e",
   "lastOpenFiles": [
+    "408/数据结构/第五章/第五章 线索二叉树.md",
+    "408/数据结构/第七章/第七章 树形查找-二叉排序树.md",
+    "408/数据结构/第七章/第七章 查找的概念-顺序查找和折半查找.md",
+    "408/计算机组成原理/第三章/第三章 3.5 高速缓冲存储器1.md",
+    "考研英语/作文/万能理由.md",
     "408/计算机组成原理/第三章/第三章 3.3 主存储器与CPU的连接.md",
     "408/计算机组成原理/第三章/第三章 3.2.3 多模块存储器.md",
     "408/计算机组成原理/第三章/第三章 3.2.2 非易失性存储器.md",
     "408/计算机组成原理/第三章/第三章 3.2.1 半导体随机存取存储器.md",
     "408/计算机组成原理/第三章/第三章 3.1 存储器概述.md",
     "408/真题复盘/2010.md",
-    "408/数据结构/第五章/第五章 线索二叉树.md",
-    "408/数据结构/第七章/第七章 树形查找-二叉排序树.md",
-    "408/数据结构/第七章/第七章 查找的概念-顺序查找和折半查找.md",
     "408/数据结构/第七章/第七章 B+树.md",
     "408/数据结构/第七章/第七章 散列表（哈希表）.md",
     "408/数据结构/第七章/第七章 树状查找-平衡二叉树.md",
     "附件/2010 34重构.png",
-    "408/计算机组成原理/第三章/第三章 3.5 高速缓冲存储器1.md",
     "408/计算机组成原理/第三章/第三章 3.5 高速缓冲存储器2.md",
     "408/计算机组成原理/第四章/第四章 4.4CISC和RISC的概念.md",
     "考研数学/题/积分计算技巧.md",
     "考研数学/数学考点总结及薄弱点突破/一元积分小观.md",
     "考研数学/数学考点总结及薄弱点突破/数学考点总结.md",
     "考研英语/作文/大作文.md",
-    "考研英语/作文/万能理由.md",
     "考研英语/作文/小作文.md",
     "提速.md",
     "日记.md",

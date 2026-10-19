@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研英语/作文/大作文训练.md",
+                "file": "考研英语/作文/大作文方法论.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -258,11 +258,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fd863c19244e0aa9",
+  "active": "561c14a029c188c7",
   "lastOpenFiles": [
+    "考研英语/作文/大作文训练.md",
     "408/计算机组成原理/第七章/CO-OS IO方式_程序查询和程序中断.md",
     "考研英语/作文/大作文方法论.md",
-    "考研英语/作文/大作文训练.md",
     "考研英语/作文/万能理由.md",
     "408/数据结构/第五章/第五章 二叉树.md",
     "考研英语/作文/用到的理由.md",

@@ -11,15 +11,12 @@
             "id": "3e2aceff76c64d86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "考研英语/作文/积累.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "考研英语/考研英语作文真题题目汇总.pdf"
               },
-              "icon": "lucide-file",
-              "title": "积累"
+              "icon": "lucide-file-text",
+              "title": "考研英语作文真题题目汇总"
             }
           },
           {
@@ -109,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研英语/作文/积累.md",
+                "file": "考研英语/考研英语作文真题题目汇总.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -211,15 +208,15 @@
   },
   "active": "3e2aceff76c64d86",
   "lastOpenFiles": [
-    "考研英语/作文/大作文训练.md",
     "考研英语/27考研英语大作文模板.pdf",
+    "考研英语/考研英语作文真题题目汇总.pdf",
+    "考研英语/作文/大作文训练.md",
     "考研英语/作文/积累.md",
     "考研英语/翻译/2020年翻译.md",
     "考研英语/英语二真题/2020年考研英语二真题（可复制搜索查词）.pdf",
     "408/数据结构/第六章/第六章 图的应用-关键路径.md",
     "考研英语/翻译/提示词.md",
     "408/真题复盘/20xx.md",
-    "考研英语/考研英语作文真题题目汇总.pdf",
     "考研英语/长难句分析速成.md",
     "考研英语/Eli田瀚博语法课笔记.md",
     "考研英语/错误原因大观.md",

@@ -194,7 +194,8 @@
               "title": "出链"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,7 +214,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da16203e6045a532",
+  "active": "a82d22af492e0ebf",
   "lastOpenFiles": [
     "考研英语/作文/小作文.md",
     "考研英语/作文/万能理由.md",

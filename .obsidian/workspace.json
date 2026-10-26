@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "599864663ce852de",
+        "id": "38604185af73a43a",
         "type": "tabs",
         "children": [
           {
-            "id": "fd4645814c6eb480",
+            "id": "49a510851e39c1b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/计算机组成原理/第七章/CO-OS DMA方式.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CO-OS DMA方式"
+              "title": "新标签页"
             }
           }
         ]
@@ -97,7 +92,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/计算机组成原理/第七章/CO-OS DMA方式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,8 +191,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fd4645814c6eb480",
+  "active": "49a510851e39c1b6",
   "lastOpenFiles": [
+    "考研数学/多元微分疑惑.md",
+    "408/找规律.md",
+    "408/计算机组成原理/第七章/CO-OS DMA方式.md",
     "408/真题复盘/2014.md",
     "408/真题复盘/克服薄弱题型.md",
     "408/真题复盘/积压待复习的项目记录.md",
@@ -208,7 +205,6 @@
     "408/操作系统/第五章/第五章 5.2磁盘高速缓存与缓冲区.md",
     "408/408规划.md",
     "408/进度.md",
-    "408/找规律.md",
     "408/操作系统/第五章/第五章 5.1 IO软件层次结构.md",
     "408/操作系统/第五章/第五章 5.1 IO操作举例一.md",
     "408/操作系统/第五章/第五章 5.2设备独立性软件.md",
@@ -223,9 +219,7 @@
     "考研英语/作文/小作文.md",
     "考研英语/作文/万能理由.md",
     "考研英语/翻译/2021年翻译.md",
-    "考研英语/翻译/提示词.md",
     "考研英语/英语二真题/2021年考研英语二真题（可复制搜索查词）.pdf",
-    "408/计算机组成原理/第五章/第五章 5.7多处理器的概念（考前突击）.md",
     "附件/2014 42-3.png",
     "附件/2014 42-2.png",
     "附件/2014 42-1.png",

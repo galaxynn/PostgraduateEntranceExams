@@ -11,10 +11,12 @@
             "id": "49a510851e39c1b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "pdf",
+              "state": {
+                "file": "考研英语/英语一真题/2024年考研英语一真题.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2024年考研英语一真题"
             }
           }
         ]
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.16668701171875
+    "width": 402.16668701171875
   },
   "right": {
     "id": "b0f1c0ec31f196fc",
@@ -92,6 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "考研英语/英语一真题/2024年考研英语一真题.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,8 +194,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "49a510851e39c1b6",
+  "active": "c27bfec7fc064f8d",
   "lastOpenFiles": [
+    "考研英语/英语一真题/2025年考研英语一真题.pdf",
     "考研数学/多元微分疑惑.md",
     "408/找规律.md",
     "408/计算机组成原理/第七章/CO-OS DMA方式.md",
@@ -218,7 +222,6 @@
     "考研英语/作文/大作文方法论.md",
     "考研英语/作文/小作文.md",
     "考研英语/作文/万能理由.md",
-    "考研英语/翻译/2021年翻译.md",
     "考研英语/英语二真题/2021年考研英语二真题（可复制搜索查词）.pdf",
     "附件/2014 42-3.png",
     "附件/2014 42-2.png",

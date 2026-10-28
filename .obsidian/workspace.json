@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/数据结构/第四章/第四章 串的模式匹配算法.md",
+                "file": "408/真题复盘/2015.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -258,12 +258,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0df9a91705700f01",
+  "active": "692c1781f5a7ef7d",
   "lastOpenFiles": [
+    "408/计算机组成原理/第二章/第二章 概念篇.md",
+    "408/操作系统/第五章/第五章 5.2磁盘高速缓存与缓冲区.md",
+    "408/数据结构/第四章/第四章 串的模式匹配算法.md",
     "408/计算机组成原理/第二章/第二章 浮点数专题.md",
     "408/真题复盘/2015.md",
-    "408/操作系统/第五章/第五章 5.2磁盘高速缓存与缓冲区.md",
-    "408/计算机组成原理/第二章/第二章 概念篇.md",
     "附件/第二章 浮点数专题 表示范围.png",
     "408/计算机组成原理/第二章/第二章 补码特辑.md",
     "408/真题复盘/克服薄弱题型.md",

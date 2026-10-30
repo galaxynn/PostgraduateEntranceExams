@@ -28,17 +28,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/真题复盘/2016.md",
+                "file": "408/数据结构/第三章/第三章 数组与特殊矩阵.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2016"
+              "title": "第三章 数组与特殊矩阵"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/真题复盘/2016.md",
+                "file": "408/真题复盘/克服薄弱题型.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -213,14 +212,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "931e5990a7cf847f",
+  "active": "5b8a2befe5b444d6",
   "lastOpenFiles": [
-    "408/真题复盘/20xx.md",
+    "408/数据结构/第三章/第三章 数组与特殊矩阵.md",
+    "408/真题复盘/克服薄弱题型.md",
     "408/真题复盘/2016.md",
+    "408/真题复盘/20xx.md",
     "附件/2016 4-1.png",
     "附件/2016 4.png",
     "附件/2016 47.png",
-    "408/真题复盘/克服薄弱题型.md",
     "附件/2016 45-1.png",
     "附件/2016 45.png",
     "附件/2016 44.png",

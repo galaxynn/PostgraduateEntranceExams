@@ -111,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 270.8333435058594
   },
   "right": {
     "id": "b0f1c0ec31f196fc",
@@ -227,8 +227,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5b8a2befe5b444d6",
+  "active": "c27bfec7fc064f8d",
   "lastOpenFiles": [
+    "附件/5587f3c283e51b9fe0ccfc99a6d64695.jpg",
     "附件/数学2019年真题 22-5.png",
     "附件/数学2019年真题 22-4.png",
     "附件/数学2019年真题 22-3.png",
@@ -242,7 +243,6 @@
     "附件/数学2019年真题 19-4.png",
     "附件/数学2019年真题 19-3.png",
     "附件/数学2019年真题 19-2.png",
-    "附件/数学2019年真题 19-1.png",
     "考研英语/作文/大作文训练.md",
     "考研英语/作文/大作文方法论.md",
     "考研英语/作文/积累.md",

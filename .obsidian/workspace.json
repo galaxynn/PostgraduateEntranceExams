@@ -4,56 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "5954cfc1917a1a3a",
+        "id": "1285273356812c86",
         "type": "tabs",
         "children": [
           {
-            "id": "4548672a96d9d6c6",
+            "id": "af3dc87050aefca2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研英语/阅读/不会翻译.md",
+                "file": "考研数学/真题复盘/数学｜2020年真题.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "不会翻译"
+              "title": "数学｜2020年真题"
             }
           },
           {
-            "id": "144e204e1a5188be",
+            "id": "8a8bbc0220541ee4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研英语/翻译/2014年翻译.md",
+                "file": "考研数学/数学考点总结及薄弱点突破/数学薄弱点突破.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2014年翻译"
+              "title": "数学薄弱点突破"
             }
           },
           {
-            "id": "3cf9dc723816d7da",
+            "id": "87825e8b04e47b6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研英语/阅读/不会翻译.md",
+                "file": "考研数学/真题复盘/数学｜2020年真题.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "不会翻译"
+              "title": "数学｜2020年真题"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研英语/翻译/2014年翻译.md",
+                "file": "考研数学/真题复盘/数学｜2020年真题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -228,13 +228,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "144e204e1a5188be",
+  "active": "87825e8b04e47b6d",
   "lastOpenFiles": [
+    "附件/数学2020年真题 4-2.png",
+    "附件/数学2020年真题 4-1.png",
+    "附件/数学2020年真题 4.png",
+    "考研数学/Math.md",
+    "考研数学/数学考点总结及薄弱点突破/数学薄弱点突破.md",
+    "考研数学/数学考点总结及薄弱点突破/一元积分小观.md",
+    "考研数学/数学考点总结及薄弱点突破/数学考点总结.md",
+    "考研数学/真题复盘/数学｜2020年真题.md",
+    "考研英语/英语二真题/2026考研（英语二）试题.pdf",
     "考研英语/阅读/不会翻译.md",
     "考研英语/翻译/2014年翻译.md",
     "考研英语/翻译/提示词.md",
     "考研英语/翻译/2025年翻译.md",
-    "考研英语/英语二真题/2026考研（英语二）试题.pdf",
     "考研英语/英语二真题/2014年考研英语二真题（可复制搜索查词）.pdf",
     "408/真题复盘/2016.md",
     "408/找规律.md",
@@ -252,13 +260,7 @@
     "408/操作系统/第二章/第二章 进程和线程－进程的通信.md",
     "408/真题复盘/克服薄弱题型.md",
     "408/真题复盘/积压待复习的项目记录.md",
-    "408/真题复盘/20xx.md",
-    "408/真题复盘/2013.md",
-    "考研数学/真题复盘/数学｜2019年真题.md",
     "附件/29a3a722d1316ddb6cdcc62f966edccc.jpg",
-    "经验贴/408 AI总结.md",
-    "考研英语/作文/积累.md",
-    "考研英语/作文/大作文方法论.md",
     "考研英语/英语一真题/2025年考研英语一真题.pdf",
     "附件/2016 36-1.png",
     "附件/2016 36.png",
@@ -267,8 +269,6 @@
     "附件/2016 25-2.png",
     "附件/2016 15-2.png",
     "附件/2016 25-1.png",
-    "附件/2016 25.png",
-    "附件/2016 24.png",
     "考研英语/英语二真题/2025年考研英语二真题.pdf",
     "考研英语/英语二真题/2023年考研英语二真题【可复制搜索查词】.pdf",
     "考研英语/英语二真题/2024年考研英语二真题【可复制搜索查词】.pdf",

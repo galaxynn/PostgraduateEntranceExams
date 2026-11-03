@@ -53,17 +53,19 @@
             }
           },
           {
-            "id": "0f847b32b8364f63",
+            "id": "2221f35ce991ba91",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.15.0"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -239,7 +241,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a82d22af492e0ebf",
+  "active": "2221f35ce991ba91",
   "lastOpenFiles": [
     "附件/数学2022年真题 20-8.png",
     "附件/数学2022年真题 20-7.png",

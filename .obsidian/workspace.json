@@ -194,12 +194,11 @@
               "title": "出链"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 327.833251953125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,7 +213,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a82d22af492e0ebf",
+  "active": "422a91bd4c59fd11",
   "lastOpenFiles": [
     "408/数据结构/第三章/第三章 数组与特殊矩阵.md",
     "408/真题复盘/2017.md",

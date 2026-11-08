@@ -37,7 +37,8 @@
               "title": "第六章 6.1总线概述"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/真题复盘/2020.md",
+                "file": "408/计算机组成原理/第六章/第六章 6.1总线概述.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -212,7 +213,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7a03eab9d1864ed",
+  "active": "a384a9aa6737be9d",
   "lastOpenFiles": [
     "408/真题复盘/2020.md",
     "附件/2020 43.png",

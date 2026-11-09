@@ -58,16 +58,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研数学/真题复盘/错题分类（2012-2024）.md",
+                "file": "考研数学/真题复盘/数学｜2012年真题.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "错题分类（2012-2024）"
+              "title": "数学｜2012年真题"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研数学/真题复盘/数学｜2023年真题.md",
+                "file": "考研数学/真题复盘/数学｜2012年真题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -242,10 +243,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7a03eab9d1864ed",
+  "active": "e20fdae174e7b84b",
   "lastOpenFiles": [
-    "考研数学/真题复盘/数学｜2021年真题.md",
     "考研数学/真题复盘/错题分类（2012-2024）.md",
+    "考研数学/真题复盘/数学｜2023年真题.md",
+    "考研数学/真题复盘/数学｜2021年真题.md",
     "考研数学/真题复盘/数学｜2012年真题.md",
     "考研数学/真题复盘/数学｜2016年真题.md",
     "考研数学/真题复盘/数学｜2020年真题.md",
@@ -283,7 +285,6 @@
     "考研数学/真题复盘/数学｜2015年真题.md",
     "考研数学/真题复盘/数学｜2014年真题.md",
     "考研数学/真题复盘/数学｜2013年真题.md",
-    "考研数学/真题复盘/数学｜20xx年真题.md",
     "考研英语/27考研英语小作文模板.pdf",
     "考研英语/英语二真题/2025年考研英语二真题.pdf",
     "考研英语/收集/作文模板/小作文高分模版.pdf",

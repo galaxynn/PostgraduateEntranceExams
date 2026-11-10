@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研英语/收集/作文模板/英语作文.md",
+                "file": "考研英语/作文/小作文训练.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -228,11 +228,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4d57904d58c7dcc7",
+  "active": "9ba9618bf77989f5",
   "lastOpenFiles": [
+    "考研英语/收集/作文模板/英语作文.md",
     "考研英语/作文/小作文训练.md",
     "考研英语/作文/小作文.md",
-    "考研英语/收集/作文模板/英语作文.md",
     "考研英语/作文/大作文方法论.md",
     "考研英语/作文/万能理由.md",
     "考研英语/作文/大作文训练.md",

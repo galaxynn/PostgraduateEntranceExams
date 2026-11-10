@@ -4,20 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "f1e9cae7b081b139",
+        "id": "bb81e502114f6e34",
         "type": "tabs",
         "children": [
           {
-            "id": "2ba2c642b24a028a",
+            "id": "617c1a45cebffe05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "考研英语/作文/小作文.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "小作文"
+            }
+          },
+          {
+            "id": "9ba9618bf77989f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研英语/作文/小作文训练.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "小作文训练"
+            }
+          },
+          {
+            "id": "4d57904d58c7dcc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研英语/收集/作文模板/英语作文.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "英语作文"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 388.16668701171875
   },
   "right": {
     "id": "b0f1c0ec31f196fc",
@@ -92,6 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "考研英语/收集/作文模板/英语作文.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -176,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 255.833251953125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,21 +228,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c27bfec7fc064f8d",
+  "active": "4d57904d58c7dcc7",
   "lastOpenFiles": [
+    "考研英语/作文/小作文训练.md",
+    "考研英语/作文/小作文.md",
+    "考研英语/收集/作文模板/英语作文.md",
+    "考研英语/作文/大作文方法论.md",
+    "考研英语/作文/万能理由.md",
+    "考研英语/作文/大作文训练.md",
+    "考研英语/作文/积累.md",
+    "考研英语/2.27考研英语小作文模板（英一英二通用）.pdf",
+    "考研数学/多元微分疑惑.md",
     "考研数学/真题复盘/数学｜2020年真题.md",
     "考研数学/真题复盘/错题分类（2012-2024）.md",
     "考研英语/翻译/2012年翻译.md",
     "附件/Pasted image 20261109142352.png",
     "考研英语/翻译/2014年翻译.md",
     "考研英语/翻译/2013年翻译.md",
-    "考研英语/作文/小作文.md",
-    "考研英语/作文/小作文训练.md",
-    "考研英语/作文/大作文训练.md",
-    "考研英语/2.27考研英语小作文模板（英一英二通用）.pdf",
-    "考研英语/作文/大作文方法论.md",
-    "考研英语/作文/积累.md",
-    "考研英语/作文/万能理由.md",
     "考研数学/真题复盘/数学｜2016年真题.md",
     "考研数学/真题复盘/数学｜2022年真题.md",
     "考研数学/真题复盘/数学｜2023年真题.md",
@@ -217,7 +256,6 @@
     "考研数学/真题复盘/数学｜2012年真题.md",
     "考研数学/真题复盘/数学｜2024年真题.md",
     "考研数学/真题复盘/错误的种类.md",
-    "考研数学/多元微分疑惑.md",
     "考研数学/数学考点总结及薄弱点突破/计算技巧.md",
     "考研数学/数学考点总结及薄弱点突破/数学薄弱点突破.md",
     "考研数学/数学考点总结及薄弱点突破/数学考点总结.md",

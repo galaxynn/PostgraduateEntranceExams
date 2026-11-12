@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bb81e502114f6e34",
+        "id": "ff1d4bfce8bad16e",
         "type": "tabs",
         "children": [
           {
-            "id": "617c1a45cebffe05",
+            "id": "1ca04297333323e3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "考研英语/英语二真题/2025年考研英语二真题.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2025年考研英语二真题"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +92,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研英语/英语二真题/2025年考研英语二真题.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -194,8 +191,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "617c1a45cebffe05",
+  "active": "1ca04297333323e3",
   "lastOpenFiles": [
+    "考研英语/英语二真题/2025年考研英语二真题.pdf",
     "考研英语/英语一真题/2025年考研英语一真题.pdf",
     "考研英语/英语一真题/2024年考研英语一真题.pdf",
     "考研数学/真题复盘/数学｜2023年真题.md",
@@ -240,7 +238,6 @@
     "考研英语/英语二真题/2012年考研英语二真题（可复制搜索查词）.pdf",
     "考研英语/英语二真题/2011年考研英语二真题（可复制搜索查词）.pdf",
     "考研英语/27考研英语小作文模板.pdf",
-    "考研英语/英语二真题/2025年考研英语二真题.pdf",
     "考研英语/英语二真题/2026考研（英语二）试题.pdf",
     "未命名.canvas"
   ]

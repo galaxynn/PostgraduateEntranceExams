@@ -6,5 +6,6 @@
   "baseFontSizeAction": true,
   "interfaceFontFamily": "MiSans",
   "textFontFamily": "思源宋体 CN,黑体",
-  "monospaceFontFamily": "JetBrains Mono NL"
+  "monospaceFontFamily": "JetBrains Mono NL",
+  "showRibbon": true
 }

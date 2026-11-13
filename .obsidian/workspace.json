@@ -37,7 +37,8 @@
               "title": "小作文"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研英语/作文/小作文训练.md",
+                "file": "考研英语/作文/小作文.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -212,10 +213,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "502d851f16c40076",
+  "active": "e64b616df8752d12",
   "lastOpenFiles": [
-    "考研英语/作文/小作文.md",
     "考研英语/作文/小作文训练.md",
+    "考研英语/作文/小作文.md",
     "考研英语/作文/万能理由.md",
     "考研英语/作文/大作文方法论.md",
     "考研数学/真题复盘/数学｜2021年真题.md",

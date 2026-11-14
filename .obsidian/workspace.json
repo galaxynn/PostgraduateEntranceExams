@@ -4,25 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "a66f5c4f142e3cf9",
+        "id": "4d50f06a90aaaa19",
         "type": "tabs",
         "children": [
           {
-            "id": "a2a7779a1c32c874",
+            "id": "1fe08caa40a07fc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/数据结构/第六章/第六章 图的应用-拓扑排序-有向无环图描述表达式.md",
+                "file": "408/真题复盘/2017.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "第六章 图的应用-拓扑排序-有向无环图描述表达式"
+              "title": "2017"
+            }
+          },
+          {
+            "id": "ebe1c135251eae5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "408/计算机组成原理/第三章/CO-OS 磁盘.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "CO-OS 磁盘"
+            }
+          },
+          {
+            "id": "4be7f46a777874ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "408/操作系统/第一章/第一章 计算机系统概述.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "第一章 计算机系统概述"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/数据结构/第六章/第六章 图的应用-拓扑排序-有向无环图描述表达式.md",
+                "file": "408/计算机组成原理/第三章/CO-OS 磁盘.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,11 +228,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a2a7779a1c32c874",
+  "active": "ebe1c135251eae5b",
   "lastOpenFiles": [
-    "408/数据结构/第六章/第六章 图的遍历.md",
+    "408/操作系统/第一章/第一章 计算机系统概述.md",
+    "408/计算机组成原理/第三章/CO-OS 磁盘.md",
+    "408/操作系统/第五章/第五章 5.3磁盘.md",
+    "408/真题复盘/2017.md",
+    "408/真题复盘/2018.md",
     "408/真题复盘/2019 DS大题难.md",
     "408/真题复盘/2020 选填难 大题难.md",
+    "408/真题复盘/2021.md",
+    "408/数据结构/第六章/第六章 图的应用-拓扑排序-有向无环图描述表达式.md",
+    "附件/第六章 图的应用-拓扑排序-有向无环图描述表达式 1.png",
+    "408/数据结构/第六章/第六章 图的遍历.md",
     "考研数学/真题复盘/数学｜2015年真题.md",
     "考研数学/真题复盘/错题分类（2012-2024）.md",
     "考研数学/真题复盘/数学｜2014年真题.md",
@@ -220,10 +259,6 @@
     "考研英语/阅读/介词意思积累.md",
     "408/计算机网络/每日一题/9月.md",
     "408/大题总结/存储系统大题思路总结（未完待续）.md",
-    "408/操作系统/第二章/第二章 信号量.md",
-    "408/操作系统/第二章/第二章 CPU调度.md",
-    "408/真题复盘/克服薄弱题型.md",
-    "408/真题复盘/2021.md",
     "附件/2021 39.png",
     "附件/2021 38-1.png",
     "附件/2021 38.png",
@@ -233,10 +268,6 @@
     "附件/第二章 CPU调度 3.png",
     "附件/2021 1819.png",
     "附件/第二章 CPU调度 2.png",
-    "附件/第二章 CPU调度 1.png",
-    "408/计算机组成原理/第二章/第二章 计算篇.md",
-    "408/真题复盘/20xx.md",
-    "408/真题复盘/2013.md",
     "考研英语/英语二真题/2025年考研英语二真题.pdf",
     "考研英语/英语二真题/2024年考研英语二真题【可复制搜索查词】.pdf",
     "考研英语/英语二真题/2026考研（英语二）试题.pdf",

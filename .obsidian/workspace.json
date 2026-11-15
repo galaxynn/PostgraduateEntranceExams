@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4d50f06a90aaaa19",
+        "id": "7c06df9097c014dd",
         "type": "tabs",
         "children": [
           {
-            "id": "1fe08caa40a07fc2",
+            "id": "ccad2a889e8a9774",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研英语/翻译/2011年翻译.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2011年翻译"
+              "title": "新标签页"
             }
           }
         ]
@@ -97,7 +92,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研英语/翻译/2011年翻译.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,11 +191,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1fe08caa40a07fc2",
+  "active": "ccad2a889e8a9774",
   "lastOpenFiles": [
+    "考研英语/翻译/2011年翻译.md",
     "附件/2011年翻译.png",
     "考研英语/英语二真题/2011年考研英语二真题（可复制搜索查词）.pdf",
-    "考研英语/翻译/2011年翻译.md",
     "考研英语/作文/小作文训练.md",
     "考研英语/作文/小作文.md",
     "408/操作系统/第三章/第三章 3.1.2 连续分配管理.md",
@@ -237,7 +231,6 @@
     "附件/2021 23.png",
     "附件/第二章 CPU调度 3.png",
     "附件/2021 1819.png",
-    "附件/第二章 CPU调度 2.png",
     "考研英语/英语二真题/2025年考研英语二真题.pdf",
     "考研英语/英语二真题/2024年考研英语二真题【可复制搜索查词】.pdf",
     "考研英语/英语二真题/2026考研（英语二）试题.pdf",

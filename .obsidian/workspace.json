@@ -52,7 +52,8 @@
               "title": "大作文方法论"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研英语/作文/小作文训练.md",
+                "file": "考研英语/作文/小作文.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -227,10 +228,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "168d3a7aedc5be8a",
+  "active": "3a2b5b0c0f55e1d7",
   "lastOpenFiles": [
-    "考研英语/作文/小作文.md",
     "考研英语/作文/小作文训练.md",
+    "考研英语/作文/小作文.md",
     "考研英语/作文/大作文方法论.md",
     "考研英语/作文/大作文训练.md",
     "考研英语/作文/万能理由.md",

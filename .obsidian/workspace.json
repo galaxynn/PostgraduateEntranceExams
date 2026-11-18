@@ -8,33 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "168d3a7aedc5be8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研英语/作文/小作文训练.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "小作文训练"
-            }
-          },
-          {
             "id": "3a2b5b0c0f55e1d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研英语/作文/小作文.md",
+                "file": "考研英语/作文/大作文训练.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "小作文"
+              "title": "大作文训练"
             }
           },
           {
@@ -52,8 +37,7 @@
               "title": "大作文方法论"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研英语/作文/小作文.md",
+                "file": "考研英语/作文/大作文训练.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -230,12 +214,12 @@
   },
   "active": "3a2b5b0c0f55e1d7",
   "lastOpenFiles": [
-    "考研英语/作文/小作文训练.md",
-    "考研英语/作文/小作文.md",
     "考研英语/作文/大作文方法论.md",
     "考研英语/作文/大作文训练.md",
-    "考研英语/作文/万能理由.md",
+    "考研英语/作文/小作文.md",
     "考研英语/作文/积累.md",
+    "考研英语/作文/小作文训练.md",
+    "考研英语/作文/万能理由.md",
     "408/真题复盘/2022.md",
     "408/计算机组成原理/第五章/第五章 5.3数据通路.md",
     "408/数据结构/排序.md",

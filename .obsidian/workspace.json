@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "408/真题复盘/克服薄弱题型.md",
+                "file": "408/计算机组成原理/第五章/第五章 5.6流水线的冒险与处理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "克服薄弱题型"
+              "title": "第五章 5.6流水线的冒险与处理"
             }
           }
         ],
@@ -97,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.16668701171875
+    "width": 270.8333435058594
   },
   "right": {
     "id": "b0f1c0ec31f196fc",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "408/真题复盘/克服薄弱题型.md",
+                "file": "408/计算机组成原理/第五章/第五章 5.6流水线的冒险与处理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -215,9 +215,9 @@
   },
   "active": "6a1beac9a16cf56b",
   "lastOpenFiles": [
+    "408/真题复盘/克服薄弱题型.md",
     "408/真题复盘/2023.md",
     "408/真题复盘/2022.md",
-    "408/真题复盘/克服薄弱题型.md",
     "408/找规律.md",
     "408/计算机网络/码元相关.md",
     "提速.md",

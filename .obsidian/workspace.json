@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研英语/作文/大作文训练.md",
+                "file": "考研英语/作文/大作文方法论.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -243,10 +243,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1289bfbad2492cfd",
+  "active": "9d4b5ce8b72e01ff",
   "lastOpenFiles": [
-    "考研英语/作文/大作文方法论.md",
     "考研英语/作文/大作文训练.md",
+    "考研英语/作文/大作文方法论.md",
     "考研英语/作文/小作文.md",
     "考研英语/作文/万能理由.md",
     "考研英语/考研英语作文真题题目汇总.pdf",

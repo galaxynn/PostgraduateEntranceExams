@@ -8,51 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "36c6bd9794a8b332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研英语/作文/小作文.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "小作文"
-            }
-          },
-          {
-            "id": "1289bfbad2492cfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研英语/作文/大作文训练.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "大作文训练"
-            }
-          },
-          {
-            "id": "9d4b5ce8b72e01ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研英语/作文/大作文方法论.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "大作文方法论"
-            }
-          },
-          {
             "id": "e38d3e0781aa5a37",
             "type": "leaf",
             "state": {
@@ -67,8 +22,7 @@
               "title": "万能理由"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研英语/作文/大作文方法论.md",
+                "file": "考研英语/作文/万能理由.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -243,11 +197,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9d4b5ce8b72e01ff",
+  "active": "e38d3e0781aa5a37",
   "lastOpenFiles": [
-    "考研英语/作文/大作文训练.md",
-    "考研英语/作文/大作文方法论.md",
     "考研英语/作文/小作文.md",
+    "考研英语/作文/大作文方法论.md",
+    "考研英语/作文/大作文训练.md",
     "考研英语/作文/万能理由.md",
     "考研英语/考研英语作文真题题目汇总.pdf",
     "附件/大作文训练 双图表.png",

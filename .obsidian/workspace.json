@@ -11,15 +11,12 @@
             "id": "4d4e0af002fc450b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "考研英语/作文/大作文训练.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "考研英语/27考研英语大作文模板.pdf"
               },
-              "icon": "lucide-file",
-              "title": "大作文训练"
+              "icon": "lucide-file-text",
+              "title": "27考研英语大作文模板"
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研英语/作文/大作文训练.md",
+                "file": "考研英语/27考研英语大作文模板.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,7 +196,10 @@
   },
   "active": "4d4e0af002fc450b",
   "lastOpenFiles": [
+    "考研英语/作文/大作文方法论.md",
+    "考研英语/作文/万能理由.md",
     "考研英语/作文/小作文训练.md",
+    "考研英语/作文/大作文训练.md",
     "408/数据结构/第四章/第四章 串的模式匹配算法.md",
     "408/真题复盘/2024.md",
     "408/真题复盘/克服薄弱题型.md",
@@ -223,10 +223,7 @@
     "附件/李六第二套复盘 5-1.png",
     "附件/李六第二套复盘 5.png",
     "考研数学/真题复盘/李六第一套复盘.md",
-    "考研英语/作文/万能理由.md",
     "考研英语/作文/小作文.md",
-    "考研英语/作文/大作文方法论.md",
-    "考研英语/作文/大作文训练.md",
     "考研英语/考研英语作文真题题目汇总.pdf",
     "附件/大作文训练 双图表.png",
     "考研英语/27考研英语小作文模板.pdf",

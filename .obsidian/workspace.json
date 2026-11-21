@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研数学/真题复盘/考前自检清单.md",
+                "file": "考研数学/真题复盘/数学｜2012年真题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -228,10 +228,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2e83b54de3ad6418",
+  "active": "3f69b174b9537e71",
   "lastOpenFiles": [
-    "考研数学/真题复盘/数学｜2012年真题.md",
     "考研数学/真题复盘/考前自检清单.md",
+    "考研数学/真题复盘/数学｜2012年真题.md",
     "考研数学/真题复盘/错题分类（2012-2024）.md",
     "考研数学/真题复盘/数学｜2025年真题.md",
     "考研数学/真题复盘/数学｜2026年真题.md",

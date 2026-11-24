@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 515.5
   },
   "right": {
     "id": "b0f1c0ec31f196fc",
@@ -191,7 +191,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "51722b0fd26bddff",
+  "active": "c27bfec7fc064f8d",
   "lastOpenFiles": [
     "408/数据结构/第五章/第五章 树与二叉树的应用.md",
     "408/数据结构/第五章/第五章 树、森林.md",

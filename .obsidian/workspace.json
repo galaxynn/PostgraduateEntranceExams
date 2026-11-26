@@ -8,18 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8159da9d73bb21d4",
+            "id": "f3c9e9a1590e85fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研英语/作文/图画作文 和 文字作文.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "图画作文 和 文字作文"
+              "title": "新标签页"
             }
           }
         ]
@@ -97,7 +92,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研英语/作文/图画作文 和 文字作文.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,8 +191,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c27bfec7fc064f8d",
+  "active": "f3c9e9a1590e85fa",
   "lastOpenFiles": [
+    "考研英语/作文/图画作文 和 文字作文.md",
     "附件/图画作文 13-2.png",
     "附件/图画作文 13-1.png",
     "附件/图画作文 13.png",
@@ -209,9 +204,7 @@
     "附件/图画作文 7.png",
     "附件/图画作文 6.png",
     "附件/图画作文 5.png",
-    "附件/图画作文 4.png",
     "考研英语/作文/大作文方法论.md",
-    "考研英语/作文/图画作文 和 文字作文.md",
     "考研英语/作文/小作文训练.md",
     "考研英语/作文/万能理由.md",
     "考研英语/作文/大作文训练.md",

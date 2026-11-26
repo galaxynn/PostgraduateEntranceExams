@@ -21,69 +21,8 @@
               "icon": "lucide-file",
               "title": "图画、文字作文训练"
             }
-          },
-          {
-            "id": "25052658e49f56f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研英语/作文/大作文训练.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "大作文训练"
-            }
-          },
-          {
-            "id": "902e974655ab5361",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研英语/作文/大作文方法论.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "大作文方法论"
-            }
-          },
-          {
-            "id": "6cb46e8386005837",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研英语/作文/图画作文 和 文字作文.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "图画作文 和 文字作文"
-            }
-          },
-          {
-            "id": "74ed58ad3e316046",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研英语/作文/每日一句.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "每日一句"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研英语/作文/每日一句.md",
+                "file": "考研英语/作文/图画、文字作文训练.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -258,13 +197,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "74ed58ad3e316046",
+  "active": "a7853cb876e1a536",
   "lastOpenFiles": [
-    "考研英语/作文/图画、文字作文训练.md",
-    "考研英语/作文/每日一句.md",
-    "考研英语/作文/图画作文 和 文字作文.md",
-    "考研英语/作文/大作文方法论.md",
     "考研英语/作文/大作文训练.md",
+    "考研英语/作文/大作文方法论.md",
+    "考研英语/作文/图画作文 和 文字作文.md",
+    "考研英语/作文/每日一句.md",
+    "考研英语/作文/图画、文字作文训练.md",
     "408/真题复盘/2026.md",
     "附件/图画文字作文训练 1.png",
     "408/操作系统/第三章/第三章 虚拟存储器 分页式虚拟存储器-请求分页系统.md",

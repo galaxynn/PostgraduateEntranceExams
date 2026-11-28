@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e12445900c800e4f",
+        "id": "378cb0222d920831",
         "type": "tabs",
         "children": [
           {
-            "id": "a7853cb876e1a536",
+            "id": "4af6c022fb13b0af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研英语/作文/小作文训练.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "小作文训练"
+              "title": "新标签页"
             }
           }
         ]
@@ -97,7 +92,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研英语/作文/小作文训练.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,8 +191,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a7853cb876e1a536",
+  "active": "4af6c022fb13b0af",
   "lastOpenFiles": [
+    "考研英语/作文/小作文训练.md",
     "附件/小作文训练2024.png",
     "考研英语/作文/小作文.md",
     "考研英语/作文/积累.md",
@@ -235,7 +230,6 @@
     "408/操作系统/第三章/第三章 3.1.5 段页式存储管理.md",
     "408/操作系统/第三章/第三章 虚拟存储器 分页式虚拟存储器-请求分页系统.md",
     "考研数学/[大观]一元积分计算知识点 .pdf",
-    "考研数学/数二分值.webp",
     "考研英语/收集/作文模板/大作文高分模板.pdf",
     "考研英语/收集/作文模板/小作文高分模版.pdf",
     "考研英语/2.27考研英语小作文模板（英一英二通用）.pdf",
